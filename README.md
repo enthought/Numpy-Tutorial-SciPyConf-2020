@@ -2,7 +2,7 @@
 
 #### Presented by: Eric Olsen, [Enthought, Inc.](https://www.enthought.com)
 
-This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2020 on Monday, July 6th 2020.
+This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2020 on Tuesday, July 7, 2020.
 
 For a smooth experience, you will need to make sure that you install or update your Python distribution and download the tutorial material _before_ the day of the tutorial.
 
