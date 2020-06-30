@@ -1,0 +1,4 @@
+name: numpy-tutorial
+dependencies:
+  - numpy
+  - matplotlib
