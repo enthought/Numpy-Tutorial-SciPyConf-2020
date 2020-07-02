@@ -35,7 +35,7 @@ $ pip install -U numpy matplotlib ipython PyQt5
 If you are using Anaconda, you can create an environment with the necessary packages with:
 
 ```
-$ conda create -n numpy-tutorial numpy matplotlib ipython pyqt5
+$ conda create -n numpy-tutorial numpy matplotlib ipython pyqt
 ```
 
 To test your installation, please execute the `check_env.py` script in the environment where you have installed the requirements.  For example, if you installed using Enthought EDM and are using the default environment, open up a terminal (or command prompt), navigate to where you have this GitHub repository, and type:
