@@ -30,19 +30,19 @@ To be able to run the examples, demos and exercises, you must have the following
 With Enthought EDM, install EDM, then follow the `Getting Started` instructions on the download page.  Make sure you install the required packages in your default environment:
 
 ```
-$ edm install numpy matplotlib ipython pyqt5
+$ edm install numpy matplotlib ipython pyqt5 jupyter
 ```
 
 If you are using Python from python.org or your system, you can install the necessary packages with:
 
 ```
-$ pip install -U numpy matplotlib ipython PyQt5
+$ pip install -U numpy matplotlib ipython PyQt5 jupyter
 ```
 
 If you are using Anaconda, you can create an environment with the necessary packages with:
 
 ```
-$ conda create -n numpy-tutorial numpy matplotlib ipython pyqt
+$ conda create -n numpy-tutorial numpy matplotlib ipython pyqt jupyter
 ```
 
 To test your installation, please execute the `check_env.py` script in the environment where you have installed the requirements.  For example, if you installed using Enthought EDM and are using the default environment, open up a terminal (or command prompt), navigate to where you have this GitHub repository, and type:
