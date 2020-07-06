@@ -2,16 +2,23 @@
 
 #### Presented by: Eric Olsen, [Enthought, Inc.](https://www.enthought.com)
 
-This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2020 on Tuesday, July 7, 2020.
+This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2020 on Tuesday, 7 July 2020.
 
 For a smooth experience, you will need to make sure that you install or update your Python distribution and download the tutorial material _before_ the day of the tutorial.
 
-## Install Python
+## Running the Exercises the (recommended) Easy Way
+
+Run with Binder by clicking this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enthought/Numpy-Tutorial-SciPyConf-2020/master)
+
+
+## Running the Exercise Locally
+
+### Install Python
 
 If you don't already have a working python distribution, you may download Enthought EDM ([https://www.enthought.com/enthought-deployment-manager/](https://www.enthought.com/enthought-deployment-manager/)), Anaconda Python ([https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)) or Python.org ([https://www.python.org/downloads/](https://www.python.org/downloads/)).
 
 
-## Install Packages
+### Install Packages
 
 To be able to run the examples, demos and exercises, you must have the following packages installed:
 
@@ -23,13 +30,13 @@ To be able to run the examples, demos and exercises, you must have the following
 With Enthought EDM, install EDM, then follow the `Getting Started` instructions on the download page.  Make sure you install the required packages in your default environment:
 
 ```
-$ edm install numpy matplotlib ipython pyqt5
+$ edm install numpy matplotlib ipython pyqt5 jupyter pillow
 ```
 
 If you are using Python from python.org or your system, you can install the necessary packages with:
 
 ```
-$ pip install -U numpy matplotlib ipython PyQt5
+$ pip install -U numpy matplotlib ipython PyQt5 jupyter pillow
 ```
 
 If you are using Anaconda, you can create an environment with the necessary packages with:
