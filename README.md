@@ -2,7 +2,7 @@
 
 #### Presented by: Eric Olsen, [Enthought, Inc.](https://www.enthought.com)
 
-This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2020 on Monday, July 6th 2020.
+This repository contains all the material needed by students registered for the Numpy tutorial of SciPy 2020 on Tuesday, July 7, 2020.
 
 For a smooth experience, you will need to make sure that you install or update your Python distribution and download the tutorial material _before_ the day of the tutorial.
 
@@ -42,7 +42,7 @@ $ pip install -U numpy matplotlib ipython PyQt5 jupyter pillow
 If you are using Anaconda, you can create an environment with the necessary packages with:
 
 ```
-$ conda create -n numpy-tutorial numpy matplotlib ipython pyqt jupyter pillow
+$ conda create -n numpy-tutorial numpy matplotlib ipython pyqt
 ```
 
 To test your installation, please execute the `check_env.py` script in the environment where you have installed the requirements.  For example, if you installed using Enthought EDM and are using the default environment, open up a terminal (or command prompt), navigate to where you have this GitHub repository, and type:
