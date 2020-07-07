@@ -1,0 +1,106 @@
+import numpy as np
+l = [0, 1, 2, 3]
+type(l)
+l2 = ['a', 'b', 'c', 'd']
+type(l2)
+l3 = [0, 'b', 2, 'd']
+l3
+l4 = [l, l2, l3]
+l4
+a = np.array([0, 1, 2, 3])
+a
+type(a)
+type(l)
+l
+a.dtype
+a.ndim
+a.shape
+l
+l.append(5)
+l
+a.append(5)
+%history
+a.itemsize
+a.dtype
+a.nbytes
+a = np.array([1, 2, 3, 4])
+b = np.array([2, 3, 4, 5])
+a + b
+a * b
+a - b
+a ** b
+a.dtype
+a.itemsize
+t = np.array([0, 1, 2, 3], dtype='int64')
+t.dtype
+t.itemsize
+t
+np.array?
+t = np.array([0, 1, 2, 3], dtype='uint8')
+x = np.arange(11.)
+x
+c = (2 * np.pi) / 10
+c
+c * x
+x
+x = x * c
+x
+x *= c
+x
+x = x / c
+x
+y = np.sin(x)
+y
+a
+a[0]
+a[1]
+a[2]
+a[0] = 10
+a
+a.dtype
+a[0] = 10.6
+a
+a[0] = 12.6
+a
+a.fill(-4.8)
+a
+a = np.array([ [0,1,2,3], [10,11,12,13] ])
+a
+a.shape
+a.size
+a.ndim
+a
+a[1, 3]
+a[1, 3] = -1
+a
+a
+a[0]
+a.shape
+a = np.array([10, 11, 12, 13, 14])
+a
+a[1:3]
+a[1:-2]
+a[-4:3]
+a[,0]
+a[:,0]
+a
+a[:3]
+a[0:3]
+a[-2:]
+a
+a[ : :2]
+a[::2]
+a[::3]
+a[::1]
+a
+a[:3]
+a
+a = np.array([0,1, 2, 3, 4])
+a
+a[-2:]
+a[-2:] = [-1, -2]
+a
+a[-2:] = 99
+a
+a[-2:] = [-1, -2, -3]
+a
