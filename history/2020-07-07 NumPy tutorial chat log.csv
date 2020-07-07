@@ -1,0 +1,821 @@
+timestamp,time_in_event,name,username,text
+"July 7th 2020, 1:58:52 pm UTC",-299s,Greg,greg8653,"Spock, did everyone make the trip"
+"July 7th 2020, 1:59:14 pm UTC",-277s,"Kar'retta Venable",usercb86a286,I had to change sessions
+"July 7th 2020, 1:59:43 pm UTC",-248s,Raha Dastgheyb,raha,lol @ Greg!
+"July 7th 2020, 1:59:54 pm UTC",-237s,"Kar'retta Venable",usercb86a286,the beam left me behind
+"July 7th 2020, 2:00:08 pm UTC",-223s,Yuvkaran Gahley,user46f7b25f,Hi All
+"July 7th 2020, 2:00:40 pm UTC",-191s,Xavier,xavier9656,Hello from France ! tea time here !
+"July 7th 2020, 2:00:43 pm UTC",-188s,Wenge,wenge,can I run this tutorial on binder?
+"July 7th 2020, 2:00:52 pm UTC",-179s,SciPy Logistics,scipylogistics,@Wenge. Yes!
+"July 7th 2020, 2:00:54 pm UTC",-177s,Murchhana,murchhana,Hello
+"July 7th 2020, 2:01:05 pm UTC",-166s,Jill C,jillc9635,"Sorry, we can't automatically pull everyone in because it would also pull in the dask tutorial"
+"July 7th 2020, 2:01:05 pm UTC",-166s,Nupur,nupur6495,Hi!!
+"July 7th 2020, 2:01:11 pm UTC",-160s,Charles,charles2328,Hello from Nova Scotia!
+"July 7th 2020, 2:01:24 pm UTC",-147s,Ben,ben4428,"exactly midnight in Melbourne. First day of our 'new' 6 week lockdown :muscle:"
+"July 7th 2020, 2:01:27 pm UTC",-144s,SciPy Logistics,scipylogistics,"We'll be live in just a minute!"
+"July 7th 2020, 2:01:29 pm UTC",-142s,Chris,chris2852,Hello from Kansas City
+"July 7th 2020, 2:01:31 pm UTC",-140s,Bob,bob4868,Comfortably numpy in Austin
+"July 7th 2020, 2:01:45 pm UTC",-126s,Raluca,raluca2196,Hello from North Carolina
+"July 7th 2020, 2:01:46 pm UTC",-125s,Nichole H.,usercff13136,"Morning, from San Jose"
+"July 7th 2020, 2:01:52 pm UTC",-119s,Mike Trizna,miketrizna7363,"Good morning from Washington, DC"
+"July 7th 2020, 2:01:54 pm UTC",-117s,Dershan,dershan,Hello!:wave:
+"July 7th 2020, 2:02:08 pm UTC",-103s,Pingping,pingping,has the session started? I see nothing
+"July 7th 2020, 2:02:17 pm UTC",-94s,Connor,connor1351,"South Bend says good morning, baby"
+"July 7th 2020, 2:02:19 pm UTC",-92s,Amanda Reeder,user4b8d1805,saem
+"July 7th 2020, 2:02:22 pm UTC",-89s,Amanda Reeder,user4b8d1805,same...
+"July 7th 2020, 2:02:28 pm UTC",-83s,Matthew,matthew3535,"good morning from Bowie, Maryland"
+"July 7th 2020, 2:02:36 pm UTC",-75s,Alexandre,alexandre5152,it is about to start @Pingping
+"July 7th 2020, 2:02:36 pm UTC",-75s,Linshan,linshan2629,Hello from Georgia!
+"July 7th 2020, 2:02:37 pm UTC",-74s,Ryan Wang,ryan21116456,Morning from Pennsylvania!
+"July 7th 2020, 2:02:38 pm UTC",-73s,Christopher,christopher9416,Good morning from WV
+"July 7th 2020, 2:02:58 pm UTC",-53s,JIAYI,jiayi3556,Good morning from VA.
+"July 7th 2020, 2:03:19 pm UTC",-32s,Shubham,shubham7982,"Good evening from Delhi, India"
+"July 7th 2020, 2:03:26 pm UTC",-25s,Perry Shafran,user9b496260,"Howdy folks!  Let's do some numpy!"
+"July 7th 2020, 2:04:12 pm UTC",21s,Vincent,vincent8886,"Hello from San Antonio, TX"
+"July 7th 2020, 2:04:12 pm UTC",21s,"Kar'retta Venable",usercb86a286,Good Morning from Georigia
+"July 7th 2020, 2:04:22 pm UTC",31s,Ana,ana6392,afternoon!
+"July 7th 2020, 2:04:28 pm UTC",37s,Charles,charles2328,Hi Alex and Eric!
+"July 7th 2020, 2:04:29 pm UTC",38s,Vincent,vincent8886,2nd breakfast!
+"July 7th 2020, 2:04:46 pm UTC",55s,Wenge,wenge,can we run this tutorial from binder?
+"July 7th 2020, 2:04:52 pm UTC",61s,Perry Shafran,user9b496260,"Hi, Matt Davis!  Thanks for all your help earlier!"
+"July 7th 2020, 2:05:24 pm UTC",93s,SciPy Logistics,scipylogistics,"@wenge, yes, use this link: https://mybinder.org/v2/gh/enthought/Numpy-Tutorial-SciPyConf-2020/master"
+"July 7th 2020, 2:05:27 pm UTC",96s,Greg,greg8653,Good morning
+"July 7th 2020, 2:06:24 pm UTC",153s,Jill C,jillc9635,If your video lags try selecting get audio/video help in the bottom left corner of your screen and select compatibility mode.
+"July 7th 2020, 2:06:32 pm UTC",161s,Mohammed,mohammed4780,if there a github to  run it locally?
+"July 7th 2020, 2:07:05 pm UTC",194s,Alayonimi,alayonimi,How to get the slides please?
+"July 7th 2020, 2:07:08 pm UTC",197s,Madelyn,madelyn2209,https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020
+"July 7th 2020, 2:07:16 pm UTC",205s,Mohammed,mohammed4780,Thank you
+"July 7th 2020, 2:07:25 pm UTC",214s,SciPy Logistics,scipylogistics,The slides are in the Github repo above.
+"July 7th 2020, 2:07:41 pm UTC",230s,Alayonimi,alayonimi,Thank you
+"July 7th 2020, 2:08:52 pm UTC",301s,Lydia,lydia8615,can you please make the size of the text larger?
+"July 7th 2020, 2:08:55 pm UTC",304s,Ben,ben4428,"The resolution isn't crash hot for sharing whole screen."
+"July 7th 2020, 2:08:55 pm UTC",304s,Alyssa,alyssa3689,"it's tough to read the command window"
+"July 7th 2020, 2:09:03 pm UTC",312s,Kira,kira9077,sorry but thats much too small and low res to see
+"July 7th 2020, 2:09:04 pm UTC",313s,Eric Winter,usere25d48e4,Can you make the font bigger
+"July 7th 2020, 2:09:27 pm UTC",336s,Mike Trizna,miketrizna7363,Much better!
+"July 7th 2020, 2:10:53 pm UTC",422s,Srinivas,user48664e67,which file should i open for this tutorial please?
+"July 7th 2020, 2:11:36 pm UTC",465s,Shastri,shastri4939,How does it work on Jupyter?
+"July 7th 2020, 2:11:40 pm UTC",469s,SciPy Logistics,scipylogistics,@Srinivas: no file right now.
+"July 7th 2020, 2:11:50 pm UTC",479s,Shastri,shastri4939,Do we need to use %matplotlib qt?
+"July 7th 2020, 2:12:02 pm UTC",491s,SciPy Logistics,scipylogistics,"If you're in Jupyter, type ""%matplotlib inline"" instead of ""%matplotlib qt"""
+"July 7th 2020, 2:12:27 pm UTC",516s,Ty,user540fdaf9,%matplotlib notebook is a fun one too
+"July 7th 2020, 2:13:00 pm UTC",549s,Perry Shafran,user9b496260,Can you make the slides larer?
+"July 7th 2020, 2:13:01 pm UTC",550s,Wenge,wenge,"If I use Jupternotebook, do I still need QT? Had trouble to install qt."
+"July 7th 2020, 2:13:05 pm UTC",554s,Perry Shafran,user9b496260,larger?
+"July 7th 2020, 2:13:52 pm UTC",601s,Shastri,shastri4939,In jupyter it does not show figure window inline when I put in %matplotlib inlines
+"July 7th 2020, 2:13:56 pm UTC",605s,Shastri,shastri4939,inline
+"July 7th 2020, 2:14:07 pm UTC",616s,Daniel,daniel2900,Use qt instead and see if it works
+"July 7th 2020, 2:14:10 pm UTC",619s,Richard,richard9597,should be %matplotlib notebook
+"July 7th 2020, 2:14:20 pm UTC",629s,Carrie,userc40bf52e,All I get in my jupyter notebook is <Figure size 432x288 with 0 Axes>
+"July 7th 2020, 2:14:30 pm UTC",639s,SciPy Logistics,scipylogistics,"""%matplotlib notebook"" and ""%matplotlib inline"" will both work."
+"July 7th 2020, 2:15:06 pm UTC",675s,Shastri,shastri4939,Not working
+"July 7th 2020, 2:15:08 pm UTC",677s,Matt Davis,jiffyclub,"I don't think you will expect anything to show up in the Notebook at this point. Not until running plt.show() I think."
+"July 7th 2020, 2:15:30 pm UTC",699s,SciPy Logistics,scipylogistics,"@Carrie: In a cell at the top of your notebook, type ""%matplotlib inline"" and then run the cell, and in a new cell try ""import  matplotlib.pyplot as plt"
+"July 7th 2020, 2:15:41 pm UTC",710s,SciPy Logistics,scipylogistics,"plt.plot([1, 5, 2])"
+"July 7th 2020, 2:15:50 pm UTC",719s,Nupur,nupur6495,%matplotlib qt not working on Mac
+"July 7th 2020, 2:15:58 pm UTC",727s,Shastri,shastri4939,I am using plt.figure()
+"July 7th 2020, 2:16:13 pm UTC",742s,Rich,rich6652,try without the qt Nupur
+"July 7th 2020, 2:16:25 pm UTC",754s,Chris M,user3ee0de94,what was t again
+"July 7th 2020, 2:16:52 pm UTC",781s,Damon,damon7324,"yeah, can you show t = again?"
+"July 7th 2020, 2:16:55 pm UTC",784s,Matt Davis,jiffyclub,"With %matplotlib inline I also get <Figure size 432x288 with 0 Axes>, so that's expected."
+"July 7th 2020, 2:16:57 pm UTC",786s,Dershan,dershan,Can we go back a couple commands to get t?
+"July 7th 2020, 2:17:01 pm UTC",790s,Nupur,nupur6495,No it says syntax error
+"July 7th 2020, 2:17:01 pm UTC",790s,Stephen,usera4e1c52c,"t = np.linspace(0, 2*np.pi, 50)"
+"July 7th 2020, 2:17:03 pm UTC",792s,Rob,rob8349,"t = np.linspace(0, 2*np.pi, 50)"
+"July 7th 2020, 2:17:04 pm UTC",793s,Ney-Ling,ney-ling,"t = np.linspace(0, 2*np.pi, 50)"
+"July 7th 2020, 2:17:12 pm UTC",801s,Kristin,kristin7842,"How can we get a figure to show up if we're using python files?"
+"July 7th 2020, 2:17:14 pm UTC",803s,Ming Xiang,mingxiang,no module matplotlib found
+"July 7th 2020, 2:17:14 pm UTC",803s,Rashika Gupta,rashika,it never showed figure for me either on jupyter
+"July 7th 2020, 2:17:15 pm UTC",804s,Ben,ben4428,cheers
+"July 7th 2020, 2:17:18 pm UTC",807s,Shastri,shastri4939,"in jupyter, the figure window is not showing"
+"July 7th 2020, 2:17:19 pm UTC",808s,Matt,matt3759,Jupyter notebook is not bringing up the plot
+"July 7th 2020, 2:17:32 pm UTC",821s,Dan,dan3710,"Same here, no figure in Jupyter"
+"July 7th 2020, 2:17:50 pm UTC",839s,Anton,anton1404,same here
+"July 7th 2020, 2:17:52 pm UTC",841s,Rich,rich6652,:x:  :x:  :x:
+"July 7th 2020, 2:17:54 pm UTC",843s,Awkward: Jim,jpivarski,`%matplotlib inline` used to be necessary.
+"July 7th 2020, 2:17:58 pm UTC",847s,SciPy Logistics,scipylogistics,"In Jupyter, you must execute a cell with the code ""%matplotlib inline"" before making any call to matplotlib."
+"July 7th 2020, 2:18:08 pm UTC",857s,Shastri,shastri4939,Done that
+"July 7th 2020, 2:18:09 pm UTC",858s,Paul_B,paul5076,"make sure you type ""%matplotlib inline"" or you won't see anything in jupyter"
+"July 7th 2020, 2:18:09 pm UTC",858s,Rich,rich6652,please slow down and scroll back up
+"July 7th 2020, 2:18:15 pm UTC",864s,Shastri,shastri4939,not working
+"July 7th 2020, 2:18:15 pm UTC",864s,Isnar,isnar,figure in Jupyter is part of output
+"July 7th 2020, 2:18:21 pm UTC",870s,Alejandro,alejandro1433,please missed x= ???
+"July 7th 2020, 2:18:23 pm UTC",872s,Rashika Gupta,rashika,did that
+"July 7th 2020, 2:18:30 pm UTC",879s,Ross,ross26598457,x = np.sin(t)
+"July 7th 2020, 2:18:30 pm UTC",879s,Scott,scott26839305,I missed something important. How did you define t? I am trying to catch up with everything nd missed that.
+"July 7th 2020, 2:18:31 pm UTC",880s,Alyson,alyson8156,x=np.sin(t)
+"July 7th 2020, 2:18:36 pm UTC",885s,Rashika Gupta,rashika,"doesn't work"
+"July 7th 2020, 2:18:48 pm UTC",897s,Kelsey,kelsey8461,"t = np.linspace(0, 2*np.pi, 50)"
+"July 7th 2020, 2:18:49 pm UTC",898s,Kira,kira9077,Is some of this already in a jupyter notebook? If so which one?
+"July 7th 2020, 2:18:49 pm UTC",898s,Mike Trizna,miketrizna7363,You can skip the plt.figure() commands in Jupyter
+"July 7th 2020, 2:19:09 pm UTC",918s,Alayonimi,alayonimi,t = ?? please
+"July 7th 2020, 2:19:11 pm UTC",920s,Dan,dan3710,Can we make figures in Jupyter?
+"July 7th 2020, 2:19:14 pm UTC",923s,Rich,rich6652,"Who's moderating?"
+"July 7th 2020, 2:19:16 pm UTC",925s,Xavier,xavier9656,how do you get the picture in separated screens using juplab ?
+"July 7th 2020, 2:19:18 pm UTC",927s,Shastri,shastri4939,"%matplotlib inline
+plt.figure()
+no figure window shows up"
+"July 7th 2020, 2:19:22 pm UTC",931s,Mauricio,mauricio5720,"t = np.linspace(0, 2*np.pi,50)"
+"July 7th 2020, 2:19:33 pm UTC",942s,SciPy Logistics,scipylogistics,"@Rich, I am."
+"July 7th 2020, 2:19:36 pm UTC",945s,Jennifer,jennifer8491,First jupyter notebook should have these.  If you downloaded from Github
+"July 7th 2020, 2:19:39 pm UTC",948s,Alayonimi,alayonimi,thanks @mauricio
+"July 7th 2020, 2:19:40 pm UTC",949s,Shastri,shastri4939,THIS SESSION IS NOT HELPING
+"July 7th 2020, 2:19:46 pm UTC",955s,Ben,ben4428,"@Xavier use 
+import matplotlib.pyplot as plt
+%matplotlib inline"
+"July 7th 2020, 2:19:46 pm UTC",955s,Andrew,andrew8424,There are slides provided with the master file providing the majority of the script
+"July 7th 2020, 2:19:50 pm UTC",959s,Dershan,dershan,too fast!
+"July 7th 2020, 2:19:52 pm UTC",961s,Ryan,ryan2457,"in jupyter plt.figure instantiates the figure, but doesn't show.  Use plt.plot(x)"
+"July 7th 2020, 2:19:55 pm UTC",964s,Kira,kira9077,first is called what?
+"July 7th 2020, 2:19:55 pm UTC",964s,Shastri,shastri4939,NO ONE IS ANSWERING
+"July 7th 2020, 2:19:56 pm UTC",965s,Rich,rich6652,can you jump in and ask him to take a pause and rollback?
+"July 7th 2020, 2:20:08 pm UTC",977s,Ryan,ryan2457,plt.plot(y) for the other
+"July 7th 2020, 2:20:09 pm UTC",978s,Matt Davis,jiffyclub,"You can see what Eric has been typing in the slides, but you can't copy it out: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020/blob/master/slides.pdf"
+"July 7th 2020, 2:20:14 pm UTC",983s,Rich,rich6652,back to t =
+"July 7th 2020, 2:20:20 pm UTC",989s,Jennifer,jennifer8491,Also t is defined as a random array before calling np.cos(t)
+"July 7th 2020, 2:20:24 pm UTC",993s,Shastri,shastri4939,YESTERDAYS SESSION WAS BRILLIANT
+"July 7th 2020, 2:20:28 pm UTC",997s,Melody,melody8725,i have a syntax error on jupyter too with the t=np.linspace
+"July 7th 2020, 2:20:36 pm UTC",1005s,"Kar'retta Venable",usercb86a286,"error message in plotting '[<matplotlib.lines.Line2D at 0x1922e5a32c8>]"
+"July 7th 2020, 2:20:43 pm UTC",1012s,Rich,rich6652,Melody = linespace
+"July 7th 2020, 2:20:57 pm UTC",1026s,"Kar'retta Venable",usercb86a286,in Jupyter Notebook
+"July 7th 2020, 2:20:58 pm UTC",1027s,Wenge,wenge,"If I use Juternotebook, do I still need qt?"
+"July 7th 2020, 2:21:10 pm UTC",1039s,Rich,rich6652,THANKS!!! :slightly_smiling_face:
+"July 7th 2020, 2:21:11 pm UTC",1040s,Charlotte,charlotte4957,No you dont
+"July 7th 2020, 2:21:21 pm UTC",1050s,Nichole H.,usercff13136,thanks
+"July 7th 2020, 2:21:25 pm UTC",1054s,Melody,melody8725,"it still has syntax error with name ""np"" is not defined."
+"July 7th 2020, 2:21:35 pm UTC",1064s,Awkward: Jim,jpivarski,import numpy as np
+"July 7th 2020, 2:21:38 pm UTC",1067s,Alejandro,alejandro1433,import numpy as np
+"July 7th 2020, 2:21:42 pm UTC",1071s,Rich,rich6652,did you run import numpy as np   ?
+"July 7th 2020, 2:21:59 pm UTC",1088s,Charlotte,charlotte4957,"Melody, run import the first before everything else"
+"July 7th 2020, 2:22:03 pm UTC",1092s,Adam,adam8310,Did someone say import numpy as np? :smile:
+"July 7th 2020, 2:22:12 pm UTC",1101s,Nichole H.,usercff13136,"so no ""magic function in jupyter?"
+"July 7th 2020, 2:22:20 pm UTC",1109s,Melody,melody8725,got it! thank you!
+"July 7th 2020, 2:22:28 pm UTC",1117s,Shastri,shastri4939,Too fast
+"July 7th 2020, 2:22:31 pm UTC",1120s,Ty,user540fdaf9,"you'll need the magic function"
+"July 7th 2020, 2:22:37 pm UTC",1126s,Rashika Gupta,rashika,i agree!
+"July 7th 2020, 2:22:43 pm UTC",1132s,Ty,user540fdaf9,%matplotlib inline or %matplotlib notebook
+"July 7th 2020, 2:22:47 pm UTC",1136s,Ty,user540fdaf9,if in jupyter
+"July 7th 2020, 2:23:26 pm UTC",1175s,Anton,anton1404,"Thank you, very helpful"
+"July 7th 2020, 2:23:48 pm UTC",1197s,Rashika Gupta,rashika,"getting this as an error : AttributeError                            Traceback (most recent call last)
+<ipython-input-4-db2ada649863> in <module>
+----> 1 t = np.linespace(0, 2*np.pi, 50)
+
+AttributeError: module 'numpy' has no attribute 'linespace'"
+"July 7th 2020, 2:23:52 pm UTC",1201s,Sandee,sandee3116,Do you have to have matplotlib inline for Jupyter?
+"July 7th 2020, 2:24:00 pm UTC",1209s,Alyssa,alyssa3689,"it's linspace, not linespace"
+"July 7th 2020, 2:24:19 pm UTC",1228s,Rashika Gupta,rashika,thanks a lot
+"July 7th 2020, 2:24:24 pm UTC",1233s,Ty,user540fdaf9,"yes sandee, check a couple messages back"
+"July 7th 2020, 2:24:28 pm UTC",1237s,SciPy Logistics,scipylogistics,"Yes, in Jupyter, you need ""%matplotlib inline"" for figures to appear in the notebook."
+"July 7th 2020, 2:24:32 pm UTC",1241s,Damon,damon7324,:+1:  thanks
+"July 7th 2020, 2:24:37 pm UTC",1246s,Sandee,sandee3116,Thanks!
+"July 7th 2020, 2:24:44 pm UTC",1253s,Ty,user540fdaf9,yup!
+"July 7th 2020, 2:25:01 pm UTC",1270s,Kira,kira9077,please slow down.
+"July 7th 2020, 2:25:10 pm UTC",1279s,Lindsey,lindsey5266,How does he get the black arrow to run from the line versus pressing shift-enter?
+"July 7th 2020, 2:25:13 pm UTC",1282s,Kira,kira9077,as we cant see many cells
+"July 7th 2020, 2:25:23 pm UTC",1292s,Nupur,nupur6495,can I see the command befor the first figure?
+"July 7th 2020, 2:25:24 pm UTC",1293s,Cameron,cameron4626,"Eric if you use Shift+Enter it runs the selected Cell and if it's the last Cell it'll insert a new cell below automatically"
+"July 7th 2020, 2:25:47 pm UTC",1316s,Xiaoyan,xiaoyan,"""No module named numpy"" when do ""import numpy as np"" on jupyter notebook"
+"July 7th 2020, 2:25:52 pm UTC",1321s,Charlotte,charlotte4957,I tried in Jupyter without the % line and it still works
+"July 7th 2020, 2:26:14 pm UTC",1343s,Mauricio,mauricio5720,"@Nupur
+plt.figure()
+plt.plot(x)"
+"July 7th 2020, 2:26:25 pm UTC",1354s,SciPy Logistics,scipylogistics,"@Lindsey: The black arrows were introduced in a recent version of Jupyter. Clicking them is the same thing as doing ""shift enter"""
+"July 7th 2020, 2:26:42 pm UTC",1371s,Nupur,nupur6495,Thank you :slightly_smiling_face:
+"July 7th 2020, 2:26:49 pm UTC",1378s,Adeolu,adeolu,"what does that magic line ""%matplotlib inline"" does in our code?"
+"July 7th 2020, 2:27:12 pm UTC",1401s,Srinivas,user48664e67,would it be possible to change the background color from blue to white please. It is hard to read!
+"July 7th 2020, 2:27:26 pm UTC",1415s,SciPy Logistics,scipylogistics,@Xiaoyan: Are you using Binder or did you install things locally? It means NumPy is not installed in the environment where Jupyter is installed.
+"July 7th 2020, 2:27:30 pm UTC",1419s,Jennifer,jennifer8491,It displays the plot inside jupyter notebook instead of popping it out in a separate window
+"July 7th 2020, 2:28:07 pm UTC",1456s,Yali,yali9737,I missed x assignments
+"July 7th 2020, 2:28:19 pm UTC",1468s,Yali,yali9737,never mind
+"July 7th 2020, 2:28:33 pm UTC",1482s,Isnar,isnar,that wont happen in jupyter
+"July 7th 2020, 2:28:49 pm UTC",1498s,Naomi,naomi4192,can you scroll please eric
+"July 7th 2020, 2:28:56 pm UTC",1505s,Andrew,andrew8424,in Anaconda is it possible to make figures larger on  our screen besides saving it?
+"July 7th 2020, 2:29:20 pm UTC",1529s,SciPy Logistics,scipylogistics,"@Andrew: Create a larger figure with ""plt.figure(figsize=(16, 12))"""
+"July 7th 2020, 2:29:32 pm UTC",1541s,SciPy Logistics,scipylogistics,"Or, you can resize the window."
+"July 7th 2020, 2:29:52 pm UTC",1561s,Andrew,andrew8424,Thank you!
+"July 7th 2020, 2:30:03 pm UTC",1572s,Nupur,nupur6495,"plt.plot(x, y1) gives a line and not curve like yours"
+"July 7th 2020, 2:30:29 pm UTC",1598s,SciPy Logistics,scipylogistics,@Nupur: Then it probably means you have different values for x and y1.
+"July 7th 2020, 2:30:54 pm UTC",1623s,SciPy Logistics,scipylogistics,y1 = np.sin(x)
+"July 7th 2020, 2:31:01 pm UTC",1630s,SciPy Logistics,scipylogistics,y2 = np.sin(2*x
+"July 7th 2020, 2:31:04 pm UTC",1633s,SciPy Logistics,scipylogistics,y2 = np.sin(2*x)
+"July 7th 2020, 2:31:35 pm UTC",1664s,Stephen,usera4e1c52c,"@Nunpur - I had the same issue and it was because my x was wrong- should be  x = np.linspace(0, 2*np.pi, 50)"
+"July 7th 2020, 2:31:39 pm UTC",1668s,Kelsey,kelsey8461,all the lines of code he has written so far are on the slides also. I
+"July 7th 2020, 2:32:01 pm UTC",1690s,Ty,user540fdaf9,apologies but where are the slides again?
+"July 7th 2020, 2:32:07 pm UTC",1696s,Kelsey,kelsey8461,on the github repo
+"July 7th 2020, 2:32:13 pm UTC",1702s,Ty,user540fdaf9,"got it, thank you!"
+"July 7th 2020, 2:32:19 pm UTC",1708s,Kelsey,kelsey8461,no prob!
+"July 7th 2020, 2:32:26 pm UTC",1715s,SciPy Logistics,scipylogistics,https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020/blob/master/slides.pdf
+"July 7th 2020, 2:32:30 pm UTC",1719s,Nupur,nupur6495,got it!
+"July 7th 2020, 2:32:32 pm UTC",1721s,Srinivas,user48664e67,"This is good tutorial. Thanks, you are doing great."
+"July 7th 2020, 2:32:43 pm UTC",1732s,Judith,judith4712,Can you plot 2 curves on a plot in Jupyter?
+"July 7th 2020, 2:33:03 pm UTC",1752s,Emerson Nicole,emersonnicole,"Legend doesn't appear"
+"July 7th 2020, 2:33:04 pm UTC",1753s,SciPy Logistics,scipylogistics,"To plot multiple lines in the same plot in Jupyter, all the code must be *in the same cell*."
+"July 7th 2020, 2:33:20 pm UTC",1769s,Sheldon,sheldon6364,My legend does not appear either
+"July 7th 2020, 2:33:25 pm UTC",1774s,Ryan,ryan2457,Same with the legend.  Put it in the same cell as the .plot
+"July 7th 2020, 2:33:25 pm UTC",1774s,Emerson Nicole,emersonnicole,just a blank figure with axes 0 to 1
+"July 7th 2020, 2:33:27 pm UTC",1776s,Cameron,cameron4626,legend also needs to be in the same cell
+"July 7th 2020, 2:33:29 pm UTC",1778s,SciPy Logistics,scipylogistics,@Emerson Nicole: Including the legend code! :slightly_smiling_face:
+"July 7th 2020, 2:33:34 pm UTC",1783s,Judith,judith4712,Thanks.
+"July 7th 2020, 2:33:35 pm UTC",1784s,Naomi,naomi4192,"plt.plot(x,y1,'g-o', x,y2,'b-+')
+plt.legend(['sinx','sin(2x)'])"
+"July 7th 2020, 2:33:37 pm UTC",1786s,Matt,matt3759,Yep ditto..not working in Jupyter
+"July 7th 2020, 2:33:39 pm UTC",1788s,Ross,ross26598457,plot and legend code need to be in the same cell
+"July 7th 2020, 2:33:56 pm UTC",1805s,Eric,eric6841,"Shout out to all the session helpers, by the way!  So helpful!"
+"July 7th 2020, 2:33:58 pm UTC",1807s,Emerson Nicole,emersonnicole,oh ok
+"July 7th 2020, 2:33:59 pm UTC",1808s,Alejandro,alejandro1433,"legend didn't show"
+"July 7th 2020, 2:34:01 pm UTC",1810s,Isnar,isnar,"yes, all in one cell and will work, like with title"
+"July 7th 2020, 2:34:12 pm UTC",1821s,Ryan Wang,ryan21116456,"plt.plot(x, y1, 'g-o', x, y2, 'b-+')
+plt.legend(['sin(x)','sin(2x)'])
+
+in the same cell"
+"July 7th 2020, 2:34:21 pm UTC",1830s,Damon,damon7324,oh
+"July 7th 2020, 2:34:23 pm UTC",1832s,Emerson Nicole,emersonnicole,got it
+"July 7th 2020, 2:34:24 pm UTC",1833s,Emerson Nicole,emersonnicole,thanks
+"July 7th 2020, 2:34:28 pm UTC",1837s,Rich,rich6652,"That's a lot of visual stuff from 2 lines of code - SWEET!"
+"July 7th 2020, 2:34:29 pm UTC",1838s,Alejandro,alejandro1433,great
+"July 7th 2020, 2:34:41 pm UTC",1850s,"Kar'retta Venable",usercb86a286,Staying in scope
+"July 7th 2020, 2:34:45 pm UTC",1854s,Anton,anton1404,Jupyter cell:
+"July 7th 2020, 2:34:47 pm UTC",1856s,Rashika Gupta,rashika,thanks !
+"July 7th 2020, 2:34:48 pm UTC",1857s,Damon,damon7324,what about the line plt.clf()?
+"July 7th 2020, 2:34:49 pm UTC",1858s,Anton,anton1404,"%matplotlib inline
+plt.figure()
+plt.plot(x, y1, 'g-o', x, y2, ""b-+"")
+plt.legend(['sin(x)', 'sin(2x)'])"
+"July 7th 2020, 2:35:02 pm UTC",1871s,Dershan,dershan,Is it possible to save the script from the ipython window?
+"July 7th 2020, 2:35:03 pm UTC",1872s,Ryan,ryan2457,"plt.clf() isn't needed in jupyter"
+"July 7th 2020, 2:35:03 pm UTC",1872s,Naomi,naomi4192,works if you stuck with qt instead of inline...
+"July 7th 2020, 2:35:13 pm UTC",1882s,Damon,damon7324,Thanks Ryan
+"July 7th 2020, 2:35:19 pm UTC",1888s,Eric,eric6841,Damon - .clf() is clear figure
+"July 7th 2020, 2:35:28 pm UTC",1897s,Dan,dan3710,Is there a character or space between commands in one Jupyter cell?
+"July 7th 2020, 2:35:41 pm UTC",1910s,Damon,damon7324,"oh, Thanks Eric"
+"July 7th 2020, 2:35:55 pm UTC",1924s,SciPy Logistics,scipylogistics,@Dershan: %history -f FILENAME
+"July 7th 2020, 2:36:07 pm UTC",1936s,Emerson Nicole,emersonnicole,how do you display the variable in jupyter after you already hit enter?
+"July 7th 2020, 2:36:08 pm UTC",1937s,SciPy Logistics,scipylogistics,@Dan: one statement per lione.
+"July 7th 2020, 2:36:11 pm UTC",1940s,Anton,anton1404,does linspace create a vector like in R?
+"July 7th 2020, 2:36:23 pm UTC",1952s,Amanda Reeder,user4b8d1805,"print('varname')"
+"July 7th 2020, 2:36:46 pm UTC",1974s,SciPy Logistics,scipylogistics,"@Anton: Yes. Type ""np.linespace?: for the docstring (documentation"""
+"July 7th 2020, 2:37:27 pm UTC",2016s,SciPy Logistics,scipylogistics,"@Emerson Nicole: In Jupyter, if the last variable in a cell is not assigned (there's no = character), Jupyter will show you the value of that variable."
+"July 7th 2020, 2:37:28 pm UTC",2017s,Mike Trizna,miketrizna7363,"Wow, I didn't know about that %history command for ipython. That will help a ton for using ipython on a cluster."
+"July 7th 2020, 2:37:49 pm UTC",2038s,Emerson Nicole,emersonnicole,@Amanda Reeder - thanks
+"July 7th 2020, 2:37:50 pm UTC",2039s,Lihong,lihong6869,Does Numpy not  include random?
+"July 7th 2020, 2:37:55 pm UTC",2044s,SciPy Logistics,scipylogistics,"@Mike, there are so many useful magic commands! Try %quickref for an overview."
+"July 7th 2020, 2:38:27 pm UTC",2076s,SciPy Logistics,scipylogistics,"Yes, NumPy has random number generation. Eric imported it with ""from numpy.random import rand"""
+"July 7th 2020, 2:38:36 pm UTC",2085s,Dan,dan3710,how was N defined?
+"July 7th 2020, 2:38:42 pm UTC",2091s,Ryan,ryan2457,N =50
+"July 7th 2020, 2:38:42 pm UTC",2091s,Amanda Reeder,user4b8d1805,N= 50
+"July 7th 2020, 2:38:50 pm UTC",2099s,Matt Davis,jiffyclub,np.random.rand would also have worked.
+"July 7th 2020, 2:39:24 pm UTC",2133s,Emerson Nicole,emersonnicole,how can you access history inline in jupyter?
+"July 7th 2020, 2:39:37 pm UTC",2146s,Ben,ben4428,possible to use a random_state?
+"July 7th 2020, 2:39:49 pm UTC",2158s,Emerson Nicole,emersonnicole,I have type everything like its the first time.
+"July 7th 2020, 2:39:50 pm UTC",2159s,Rashika Gupta,rashika,"can yu plese say that again ? What's s = areas doing when plotting it?"
+"July 7th 2020, 2:39:55 pm UTC",2164s,Shastri,shastri4939,It is be very very useful if the instructor pauses for us to try
+"July 7th 2020, 2:40:23 pm UTC",2192s,Shastri,shastri4939,PAUSE Please
+"July 7th 2020, 2:40:45 pm UTC",2214s,Wenge,wenge,which file are you using?
+"July 7th 2020, 2:40:55 pm UTC",2224s,Matt Davis,jiffyclub,"@Ben You can set seeds and states, docs are here: https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html"
+"July 7th 2020, 2:41:03 pm UTC",2232s,Karen West,usere0996027,Is it possible to load different colormaps?
+"July 7th 2020, 2:41:16 pm UTC",2245s,Ty,user540fdaf9,there are a bunch of different palettes
+"July 7th 2020, 2:41:29 pm UTC",2258s,Karen West,usere0996027,How do you load them?
+"July 7th 2020, 2:41:34 pm UTC",2263s,Matt Davis,jiffyclub,"@Karen Yes, there are many built in ones, other libraries with extra ones, and you can make your own!"
+"July 7th 2020, 2:41:42 pm UTC",2271s,Rashika Gupta,rashika,"""---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-37-86749bebf399> in <module>
+----> 1 plt.scatter(x, y1, s=areas, c=colors)
+
+NameError: name 'colors' is not defined"""
+"July 7th 2020, 2:41:46 pm UTC",2275s,SciPy Logistics,scipylogistics,"@Wenge no files. He's following along from teh slides: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020/blob/master/slides.pdf"
+"July 7th 2020, 2:41:49 pm UTC",2278s,Rashika Gupta,rashika,colors seem to be not working
+"July 7th 2020, 2:42:02 pm UTC",2291s,Rashika Gupta,rashika,in jupyter
+"July 7th 2020, 2:42:13 pm UTC",2302s,Ty,user540fdaf9,did you initialize the colors variable before the scatterplot?
+"July 7th 2020, 2:42:14 pm UTC",2303s,Ross,ross26598457,"@Rashika did you miss the line 'colors = rand(N)'"
+"July 7th 2020, 2:42:20 pm UTC",2309s,SciPy Logistics,scipylogistics,Colors was defined as colors = rand(N)
+"July 7th 2020, 2:42:36 pm UTC",2325s,Aaron,aaron8340,Shift + tab is also really useful here
+"July 7th 2020, 2:42:43 pm UTC",2332s,Rashika Gupta,rashika,"yes,  did. thanks for pointing that out!"
+"July 7th 2020, 2:42:45 pm UTC",2334s,Rich,rich6652,in jup - the 2 lines have to be together in the same cell
+"July 7th 2020, 2:42:47 pm UTC",2336s,Karen West,usere0996027,Question relates to work I am working on plotting for work and want to know how to load a specific colormap
+"July 7th 2020, 2:42:57 pm UTC",2346s,Rashika Gupta,rashika,can we please ask him to go a little bit slow.
+"July 7th 2020, 2:43:12 pm UTC",2361s,Rashika Gupta,rashika,it is becoming difficult to catch up with hi m
+"July 7th 2020, 2:43:14 pm UTC",2363s,Matt Davis,jiffyclub,"@Karen, ping me in Slack and I can help you with this."
+"July 7th 2020, 2:43:16 pm UTC",2365s,Emerson Nicole,emersonnicole,I second the request to slow down a little
+"July 7th 2020, 2:43:22 pm UTC",2371s,Rich,rich6652,"plt.scatter(x, y1, s=areas, c=colors)
+plt.colorbar()"
+"July 7th 2020, 2:44:36 pm UTC",2445s,Shastri,shastri4939,is the colors array combination of RGB?
+"July 7th 2020, 2:45:01 pm UTC",2470s,Rich,rich6652,@SciPi - bouncing between windows is hard for us to keep up - I dont think Eric realizes. Maybe if he did 3-4 functions and then took a min to explain we could all stay in sync
+"July 7th 2020, 2:45:53 pm UTC",2522s,Perry Shafran,user9b496260,Agree with Rich - we need some breaks between each concept for everyone to catch up
+"July 7th 2020, 2:45:54 pm UTC",2523s,Jennifer,jennifer8491,"Actually, I think this whole focus on MatPlotLib is a distraction.  I suggest using a Jupyter Notebook next time with the MatPlotLib parts already coded, and assume users will just run them.  It takes time away from actually teaching numpy.  I was more interested in fancy indexing and numpy structures that mimic dictionary."
+"July 7th 2020, 2:46:30 pm UTC",2559s,SciPy Logistics,scipylogistics,"@Jennifer, Thank you for the feedback."
+"July 7th 2020, 2:47:31 pm UTC",2620s,Naomi,naomi4192,can you rewrite the title code?
+"July 7th 2020, 2:47:41 pm UTC",2630s,William,william5320,pace is good
+"July 7th 2020, 2:47:49 pm UTC",2638s,Nupur,nupur6495,"plt.title(""Random Scatter"")"
+"July 7th 2020, 2:47:51 pm UTC",2640s,Dershan,dershan,I am totally lost. Can we post the code so I can catch up during break?
+"July 7th 2020, 2:47:59 pm UTC",2648s,Ben,ben4428,"I'm not minding the pace."
+"July 7th 2020, 2:48:05 pm UTC",2654s,Tijana,tijana5736,agree with @Jennifer especially since many things are the old way of doing things in Jupyter with matplotlib
+"July 7th 2020, 2:48:07 pm UTC",2656s,Raluca,raluca2196,this is a nice intro to Matplotlib!
+"July 7th 2020, 2:48:11 pm UTC",2660s,Lydia,lydia8615,"Alternative opinion - I actually prefer this way as opposed to Jupyter Notebook because for me it's easier to learn if we don't using prepackaged code"
+"July 7th 2020, 2:48:12 pm UTC",2661s,Naomi,naomi4192,"@nupur thanks, there was a text bit too...?"
+"July 7th 2020, 2:48:17 pm UTC",2666s,Karen West,usere0996027,Are you going to go over stacked plots?
+"July 7th 2020, 2:48:33 pm UTC",2682s,SciPy Logistics,scipylogistics,https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020/blob/master/slides.pdf
+"July 7th 2020, 2:48:43 pm UTC",2692s,Alexandre,alexandre5152,is array a list?
+"July 7th 2020, 2:48:56 pm UTC",2705s,Matha Goram,baqwas,@Lydia :+1:
+"July 7th 2020, 2:49:02 pm UTC",2711s,Christopher,christopher9416,yes Alexandre
+"July 7th 2020, 2:49:04 pm UTC",2713s,Raluca,raluca2196,"Agree with Lydia, I like the practice of typing the code myself"
+"July 7th 2020, 2:49:22 pm UTC",2731s,Alexandre,alexandre5152,Thank you @Christopher
+"July 7th 2020, 2:49:23 pm UTC",2732s,Jennifer,jennifer8491,No it is numpy ndarray object.  np.array(x)
+"July 7th 2020, 2:49:34 pm UTC",2743s,Christopher,christopher9416,"You're welcome @Alexandre"
+"July 7th 2020, 2:49:43 pm UTC",2752s,Anton,anton1404,The pace and format is fine for me even though I am using a Jupyter notebook
+"July 7th 2020, 2:49:57 pm UTC",2766s,Christopher,christopher9416,Whoops...
+"July 7th 2020, 2:50:13 pm UTC",2782s,Raluca,raluca2196,@Anton:+1:
+"July 7th 2020, 2:51:05 pm UTC",2834s,Matha Goram,baqwas,Pace is good for my learning at my skill level!
+"July 7th 2020, 2:51:53 pm UTC",2882s,Emanuele,emanuele6247,"What is ""rand""?"
+"July 7th 2020, 2:52:11 pm UTC",2900s,Nupur,nupur6495,why do you get an array of floats?
+"July 7th 2020, 2:52:17 pm UTC",2906s,Ross,ross26598457,"random number generating function, value 0-1"
+"July 7th 2020, 2:52:18 pm UTC",2907s,Naomi,naomi4192,rand is numpy random number generator
+"July 7th 2020, 2:52:21 pm UTC",2910s,SciPy Logistics,scipylogistics,from numpy.random import rand
+"July 7th 2020, 2:52:28 pm UTC",2917s,SciPy Logistics,scipylogistics,rand? for the documentation.
+"July 7th 2020, 2:52:35 pm UTC",2924s,Sheldon,sheldon6364,Does scaling just means instead of 100 random numbers there will be for an example 200 random number when multiplied by 2 or is it each of those 100 random numbers are multiplied by 2?
+"July 7th 2020, 2:52:55 pm UTC",2944s,Ryan,ryan2457,each of the 100 are multiplied by 2
+"July 7th 2020, 2:53:06 pm UTC",2955s,Anton,anton1404,how do you set formatting to show fewer decimals in the matrix?
+"July 7th 2020, 2:53:49 pm UTC",2998s,Nupur,nupur6495,why are values between 0-1 when rand func is like 100 random numbers?
+"July 7th 2020, 2:54:05 pm UTC",3014s,Ryan,ryan2457,it generates 100 numbers that range between 0 and 1
+"July 7th 2020, 2:54:29 pm UTC",3038s,Ryan,ryan2457,rand(100) * 2 generates 100 random numbers between 0 and 2
+"July 7th 2020, 2:55:06 pm UTC",3075s,Shastri,shastri4939,"How can we find more infor the cmap options available?
+is it cmap?"
+"July 7th 2020, 2:55:12 pm UTC",3081s,Matha Goram,baqwas,pls show e4 again
+"July 7th 2020, 2:55:15 pm UTC",3084s,Karen West,usere0996027,How do you know the cmap types?
+"July 7th 2020, 2:55:22 pm UTC",3091s,Naomi,naomi4192,"e1 = rand(100)
+e2 = rand(100)*2
+e3 = rand(100)*10
+e4 = rand(100)*100"
+"July 7th 2020, 2:55:38 pm UTC",3107s,Sandee,sandee3116,Statistics say it can only be between 0 and 1 - R = r**2
+"July 7th 2020, 2:55:40 pm UTC",3109s,Matha Goram,baqwas,"Thx, @Naomi"
+"July 7th 2020, 2:55:42 pm UTC",3111s,Isnar,isnar,1 being 100% correlation and 0 is 0%
+"July 7th 2020, 2:55:45 pm UTC",3114s,Srinivas,user48664e67,co relation coefficients R2 is between 0 to 1
+"July 7th 2020, 2:55:46 pm UTC",3115s,Rashika Gupta,rashika,is that now how correlation defined ?
+"July 7th 2020, 2:55:47 pm UTC",3116s,Rich,rich6652,probability is between 0-1
+"July 7th 2020, 2:55:49 pm UTC",3118s,Dan,dan3710,"That's how correlation is defined"
+"July 7th 2020, 2:56:05 pm UTC",3133s,Sandee,sandee3116,"r is always between -1 and 1, so r squared is always between 0 and 1"
+"July 7th 2020, 2:56:07 pm UTC",3136s,Luke,luke3321,"It's between -1 and 1."
+"July 7th 2020, 2:56:10 pm UTC",3139s,Ryan,ryan2457,cmap info: https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
+"July 7th 2020, 2:56:14 pm UTC",3143s,Dan,dan3710,It is normalized by the standard deviation of the values
+"July 7th 2020, 2:56:17 pm UTC",3146s,Sandee,sandee3116,Good answer Rich
+"July 7th 2020, 2:56:31 pm UTC",3160s,Luke,luke3321,"The corrmatrix, I mean."
+"July 7th 2020, 2:56:49 pm UTC",3178s,Shastri,shastri4939,Thanks @Ryan. Is it possible to get info from a terminal?
+"July 7th 2020, 2:57:17 pm UTC",3206s,Eric Olsen,user4cb7cd1a,https://matplotlib.org/3.1.1/gallery/color/colormap_reference.html
+"July 7th 2020, 2:57:18 pm UTC",3207s,Ty,user540fdaf9,documentation and stackoverflow will be your best friends
+"July 7th 2020, 2:57:42 pm UTC",3231s,Ryan,ryan2457,"No idea if obtainable from the terminal.  I've taught myself through googling"
+"July 7th 2020, 2:57:51 pm UTC",3240s,Shastri,shastri4939,"@Ty, I will met them today"
+"July 7th 2020, 2:58:39 pm UTC",3288s,Shastri,shastri4939,"That's what I was looking for"
+"July 7th 2020, 2:59:30 pm UTC",3339s,Adam,adam8310,Linux sorting is case insensitive
+"July 7th 2020, 2:59:49 pm UTC",3358s,Emerson Nicole,emersonnicole,How to save the plots in jupyter?
+"July 7th 2020, 3:00:01 pm UTC",3370s,Nupur,nupur6495,right click and save
+"July 7th 2020, 3:00:04 pm UTC",3373s,Nupur,nupur6495,on mac
+"July 7th 2020, 3:00:29 pm UTC",3398s,Emerson Nicole,emersonnicole,:+1:
+"July 7th 2020, 3:00:38 pm UTC",3407s,Nupur,nupur6495,ctrl+click---> save
+"July 7th 2020, 3:00:47 pm UTC",3416s,Dan,dan3710,what is the pot.cm. command doing? Is that  another way of setting the colormap? Or something else
+"July 7th 2020, 3:00:55 pm UTC",3424s,Mohammed,mohammed4780,can I invert the scale?
+"July 7th 2020, 3:00:55 pm UTC",3424s,Shastri,shastri4939,Works in Jupyter
+"July 7th 2020, 3:00:57 pm UTC",3426s,Pavankumar,pavankumar2746,yes it works in jupyter. i checked
+"July 7th 2020, 3:01:39 pm UTC",3468s,Matt Davis,jiffyclub,plt.cm is the matplotlib module that has all of their builtin colormaps.
+"July 7th 2020, 3:02:31 pm UTC",3520s,Dan,dan3710,cool!
+"July 7th 2020, 3:02:37 pm UTC",3526s,Shastri,shastri4939,AWESOME!!!
+"July 7th 2020, 3:03:38 pm UTC",3587s,Nupur,nupur6495,what is imshow?
+"July 7th 2020, 3:03:44 pm UTC",3593s,Paul,paul7160,"would be great if you can explain rcParam a bit, whenever it fits in tutorial."
+"July 7th 2020, 3:03:49 pm UTC",3598s,Rich,rich6652,"plt. in Jup doesnt seem to tab to scatter, line or other"
+"July 7th 2020, 3:04:10 pm UTC",3619s,Shastri,shastri4939,"in ipython, we can type whos to list the variables in the workspace.
+is there a way to list the variables without ipyhon?"
+"July 7th 2020, 3:04:14 pm UTC",3623s,Karen West,usere0996027,thanks Matt :slightly_smiling_face:
+"July 7th 2020, 3:05:00 pm UTC",3669s,Rich,rich6652,"I'm wrong - it just takes a min to load the option"
+"July 7th 2020, 3:05:31 pm UTC",3700s,SciPy Logistics,scipylogistics,"@Shastri: %whos will work in Jupyter. In ""plain Python"", there's no simple way. You can list all the names using the dir() function, but it won't show you all teh values."
+"July 7th 2020, 3:06:08 pm UTC",3737s,SciPy Logistics,scipylogistics,"@Paul, re: rcParams is outside the scope of this tutorial."
+"July 7th 2020, 3:06:38 pm UTC",3767s,Nupur,nupur6495,could you please repeat subplot
+"July 7th 2020, 3:06:43 pm UTC",3772s,SciPy Logistics,scipylogistics,"@Paul, but the documentation is good: https://matplotlib.org/3.2.2/tutorials/introductory/customizing.html"
+"July 7th 2020, 3:06:53 pm UTC",3782s,Naomi,naomi4192,"C:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:4: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+  after removing the cwd from sys.path."
+"July 7th 2020, 3:06:55 pm UTC",3784s,Naomi,naomi4192,neat
+"July 7th 2020, 3:06:59 pm UTC",3788s,Shastri,shastri4939,How can we manually set the figure size using subplots?
+"July 7th 2020, 3:08:40 pm UTC",3889s,Matt Davis,jiffyclub,"You can pass a figsize=(16, 10) keyword to subplots."
+"July 7th 2020, 3:09:07 pm UTC",3916s,Ray,ray9663,"What syntax would you use to put the ""Plot 1"" and ""Plot 2"" labels on the 2 sub-plots?"
+"July 7th 2020, 3:09:28 pm UTC",3937s,Mohammed,mohammed4780,I think if we make a figure before making the subplots
+"July 7th 2020, 3:09:40 pm UTC",3949s,Matt Davis,jiffyclub,Ok maybe not. :grimacing: Let me look that up.
+"July 7th 2020, 3:10:25 pm UTC",3994s,Emerson Nicole,emersonnicole,How can I add space between the subplots?
+"July 7th 2020, 3:10:41 pm UTC",4010s,Tijana,tijana5736,you can pass figsize to plt.subplots but not to plt.subplot
+"July 7th 2020, 3:10:42 pm UTC",4011s,Matthew,matthew3535,4 part plots?
+"July 7th 2020, 3:10:45 pm UTC",4014s,Matt Davis,jiffyclub,"Oh, I am thinking of plt.subplots, not plt.subplot :sweat_smile:"
+"July 7th 2020, 3:10:50 pm UTC",4019s,Sheldon,sheldon6364,Do all these go in the same cell in jupyter? Like to get the data side by side
+"July 7th 2020, 3:10:51 pm UTC",4020s,Damon,damon7324,Can the subplots be created in Jupyter?
+"July 7th 2020, 3:10:59 pm UTC",4028s,SciPy Logistics,scipylogistics,"@Matthew: plt.subplot(2, 2, 1)"
+"July 7th 2020, 3:11:11 pm UTC",4040s,SciPy Logistics,scipylogistics,"@Sheldon: Yes, all in the same cell."
+"July 7th 2020, 3:11:11 pm UTC",4040s,Rashika Gupta,rashika,@damon yes
+"July 7th 2020, 3:11:15 pm UTC",4044s,Ross,ross26598457,@Sheldon yes
+"July 7th 2020, 3:11:57 pm UTC",4086s,Sheldon,sheldon6364,@Ross Thank You got it
+"July 7th 2020, 3:12:11 pm UTC",4100s,SciPy Logistics,scipylogistics,@Emerson: Check the plt. subplots_adjust function. https://matplotlib.org/api/_as_gen/matplotlib.figure.Figure.html?highlight=subplots_adjust#matplotlib.figure.Figure.subplots_adjust
+"July 7th 2020, 3:12:19 pm UTC",4107s,Dan,dan3710,I got error size not defined
+"July 7th 2020, 3:12:24 pm UTC",4113s,Dan,dan3710,How was that corrected?
+"July 7th 2020, 3:12:29 pm UTC",4118s,Alyson,alyson8156,"size=(10,1000)"
+"July 7th 2020, 3:12:34 pm UTC",4123s,Alyson,alyson8156,make sure the = is tere
+"July 7th 2020, 3:12:38 pm UTC",4127s,Dan,dan3710,thx
+"July 7th 2020, 3:12:40 pm UTC",4129s,Alyson,alyson8156,there*
+"July 7th 2020, 3:12:45 pm UTC",4133s,Alyson,alyson8156,no problem :slightly_smiling_face:
+"July 7th 2020, 3:13:05 pm UTC",4154s,Emerson Nicole,emersonnicole,Thanks @SciPy
+"July 7th 2020, 3:13:11 pm UTC",4160s,Douglas,douglas4218,"did this tutorial start before 9 CDT? I logged in just before 9 but it seems like it's been going for a while... thanks"
+"July 7th 2020, 3:13:39 pm UTC",4188s,SciPy Logistics,scipylogistics,It started at 9 CDT.
+"July 7th 2020, 3:13:55 pm UTC",4204s,Laide,laide1719,Can you normalize the y-axis for the histogram (from 0 to 1)?
+"July 7th 2020, 3:13:55 pm UTC",4204s,Nupur,nupur6495,error:size not defined?
+"July 7th 2020, 3:14:09 pm UTC",4218s,Xiaoyan,xiaoyan,"'size' is not defined? how to fix it?"
+"July 7th 2020, 3:14:27 pm UTC",4236s,Cameron,cameron4626,"data = randint(10000, size=(10, 1000))"
+"July 7th 2020, 3:14:27 pm UTC",4236s,Nupur,nupur6495,fixed it..thanks:)
+"July 7th 2020, 3:14:44 pm UTC",4253s,Dipal,dipal8859,i dont see the plots as output..how can I fix it?
+"July 7th 2020, 3:15:00 pm UTC",4269s,Sheldon,sheldon6364,what was linspace
+"July 7th 2020, 3:15:06 pm UTC",4275s,Rashika Gupta,rashika,"what's the function on cumulative"
+"July 7th 2020, 3:15:09 pm UTC",4278s,Lydia,lydia8615,"@Douglas - it's currently 10:15 CDT, I think"
+"July 7th 2020, 3:15:09 pm UTC",4278s,Rashika Gupta,rashika,*of
+"July 7th 2020, 3:15:19 pm UTC",4288s,Ty,user540fdaf9,"apologies if this was stated earlier, but in jupyter, you can add a ';' at the end of a plt.plot or plt.hist etc. to hide the array data"
+"July 7th 2020, 3:15:35 pm UTC",4304s,Brent,brent7230,@dipal are you in jupyter?
+"July 7th 2020, 3:15:41 pm UTC",4310s,Dipal,dipal8859,yes
+"July 7th 2020, 3:15:42 pm UTC",4311s,Murchhana,murchhana,"Can you repeat what is ""cumulative=True"">"
+"July 7th 2020, 3:15:43 pm UTC",4312s,Raluca,raluca2196,thanks Ty
+"July 7th 2020, 3:15:50 pm UTC",4319s,Sheldon,sheldon6364,could he go back up for a second
+"July 7th 2020, 3:15:53 pm UTC",4322s,Brent,brent7230,%matplotlib inline
+"July 7th 2020, 3:15:54 pm UTC",4323s,Nupur,nupur6495,can I see hist command again?
+"July 7th 2020, 3:15:56 pm UTC",4325s,Karen West,usere0996027,Can you set a cmap on that kind of plot?
+"July 7th 2020, 3:15:57 pm UTC",4326s,Alejandro,alejandro1433,can we seee the creann above
+"July 7th 2020, 3:15:58 pm UTC",4327s,Shastri,shastri4939,axis=0 is along rows?
+"July 7th 2020, 3:16:00 pm UTC",4329s,Rob,rob8349,The side by side histograms were placed in the same area as the cumulative histogram for me
+"July 7th 2020, 3:16:30 pm UTC",4359s,Rashika Gupta,rashika,"can you please dsplay the codes you executed after -""plt.hist(x, cumulative=True)"""
+"July 7th 2020, 3:16:31 pm UTC",4360s,Brent,brent7230,@dipal run %matplotlib inline in a cell
+"July 7th 2020, 3:16:32 pm UTC",4361s,Alejandro,alejandro1433,can we see the screen above
+"July 7th 2020, 3:16:44 pm UTC",4373s,Murchhana,murchhana,"what does ""cumulative=True"" do?"
+"July 7th 2020, 3:17:00 pm UTC",4389s,Matt Davis,jiffyclub,"True and False are Python's builtin boolean values. Python is case sensitive, so the case matters."
+"July 7th 2020, 3:17:01 pm UTC",4390s,Dipal,dipal8859,Works! thank you @Brent
+"July 7th 2020, 3:17:07 pm UTC",4396s,William,william5320,"try: true = False, then type true :slightly_smiling_face:"
+"July 7th 2020, 3:17:18 pm UTC",4407s,Brent,brent7230,"You're welcome!"
+"July 7th 2020, 3:17:25 pm UTC",4414s,Shastri,shastri4939,"Also, the two histogram subplots overlapped along y-axis. any way to create a gap between the two?"
+"July 7th 2020, 3:17:48 pm UTC",4437s,Ryan,ryan2457,"@Murchhana, from the documentation: ""If True, then a histogram is computed where each bin gives the counts in that bin plus all bins for smaller values. The last bin gives the total number of datapoints"""
+"July 7th 2020, 3:19:22 pm UTC",4531s,Matt Davis,jiffyclub,"@Shastri I think the subplots_adjust function will move things around so they don't overlap (you want to call it after putting all your stuff on the figure). https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplots_adjust.html"
+"July 7th 2020, 3:20:16 pm UTC",4585s,Murchhana,murchhana,Thanks @Ryan
+"July 7th 2020, 3:20:20 pm UTC",4589s,Emerson Nicole,emersonnicole,"@Shastri I found this worked in jupyter in one cell to create space plt.subplot(2,1,1)
+plt.hist(x,color='r')
+plt.subplot(2,1,2)
+plt.hist(x,cumulative=True)
+plt.subplots_adjust(hspace=0.7)"
+"July 7th 2020, 3:20:29 pm UTC",4598s,Shastri,shastri4939,Can we add an annotation to the legend: like a mean values=something?
+"July 7th 2020, 3:20:48 pm UTC",4617s,Karen West,usere0996027,"I'm getting a tuple object not callable when running that legend"
+"July 7th 2020, 3:22:18 pm UTC",4707s,Karen West,usere0996027,How do change orientation of y axis label?
+"July 7th 2020, 3:22:20 pm UTC",4709s,SciPy Logistics,scipylogistics,"@Karen: It means you probably assigned a value to legend like: ""legend = (1, 5)"""
+"July 7th 2020, 3:22:54 pm UTC",4743s,Shastri,shastri4939,Thanks @Emerson
+"July 7th 2020, 3:23:24 pm UTC",4773s,Karen West,usere0996027,Thanks
+"July 7th 2020, 3:23:36 pm UTC",4785s,Shastri,shastri4939,"how to add annotation to the plot, inside legend?"
+"July 7th 2020, 3:24:06 pm UTC",4815s,Naomi,naomi4192,plt.legend?
+"July 7th 2020, 3:24:15 pm UTC",4824s,Naomi,naomi4192,gives background and options
+"July 7th 2020, 3:24:16 pm UTC",4825s,SciPy Logistics,scipylogistics,"@Shastri, use the plt.annotate function. https://matplotlib.org/api/_as_gen/matplotlib.pyplot.annotate.html"
+"July 7th 2020, 3:24:47 pm UTC",4856s,Karen West,usere0996027,"I guess I'm wondering how to get rid of the results of the error?"
+"July 7th 2020, 3:24:58 pm UTC",4867s,Wenge,wenge,"Could  you script what Eric typed  on screen? the slide does not includes all the commends he types on screen, e.g. the  multiple histogram."
+"July 7th 2020, 3:25:24 pm UTC",4893s,SciPy Logistics,scipylogistics,"@Karen, first, try  ""del legend"""
+"July 7th 2020, 3:25:29 pm UTC",4898s,Karen West,usere0996027,thx
+"July 7th 2020, 3:26:39 pm UTC",4968s,Eric,eric6841,"Where is the ""assignment exercise""?"
+"July 7th 2020, 3:26:47 pm UTC",4976s,Naomi,naomi4192,http://localhost:8888/notebooks/exercises/plotting/plotting.ipynb
+"July 7th 2020, 3:26:52 pm UTC",4981s,Karen West,usere0996027,"Hmm ""legend is not defined?"
+"July 7th 2020, 3:26:58 pm UTC",4987s,Alejandro,alejandro1433,notebooks/exercises/plotting/plotting.ipynb
+"July 7th 2020, 3:27:04 pm UTC",4993s,Eric,eric6841,thank you
+"July 7th 2020, 3:27:47 pm UTC",5036s,Anton,anton1404,did not we already sin(x)?
+"July 7th 2020, 3:27:57 pm UTC",5046s,Sheldon,sheldon6364,if we have any questions will you be online?
+"July 7th 2020, 3:28:28 pm UTC",5077s,Alejandro,alejandro1433,it helps
+"July 7th 2020, 3:28:29 pm UTC",5078s,Alejandro,alejandro1433,yes
+"July 7th 2020, 3:29:02 pm UTC",5111s,Sheldon,sheldon6364,"Alright, thank you take your well needed break"
+"July 7th 2020, 3:29:12 pm UTC",5121s,Wenge,wenge,Could he use %history to save his script into a file and share it on gtihub?
+"July 7th 2020, 3:30:46 pm UTC",5215s,Anton,anton1404,"Never mind, I did not realize this all has to be on the same"
+"July 7th 2020, 3:39:17 pm UTC",5726s,SciPy Logistics,scipylogistics,"I'm back, if anyone needs help."
+"July 7th 2020, 3:41:44 pm UTC",5873s,Eric Olsen,user4cb7cd1a,I just added my %history to a history folder on GitHub.
+"July 7th 2020, 3:45:27 pm UTC",6096s,Ty,user540fdaf9,what time are we reconvening again?
+"July 7th 2020, 3:45:46 pm UTC",6115s,Ty,user540fdaf9,right on cue! lol
+"July 7th 2020, 3:46:12 pm UTC",6141s,Chris,chris2852,i had to click on the screen to get the image to come back
+"July 7th 2020, 3:47:49 pm UTC",6238s,Chris,chris2852,ipython seems a little like R? Interactive command line that can spawn graphics
+"July 7th 2020, 3:49:22 pm UTC",6331s,Matthew,matthew3535,thanks
+"July 7th 2020, 3:49:26 pm UTC",6335s,Aifang Zhou,user19c0487f,"when i type python/ipython from terminal, what's the difference?"
+"July 7th 2020, 3:50:00 pm UTC",6369s,Shastri,shastri4939,They are sisters-in-law
+"July 7th 2020, 3:50:36 pm UTC",6405s,Shastri,shastri4939,python and R
+"July 7th 2020, 3:50:55 pm UTC",6424s,Shastri,shastri4939,"What's edm?"
+"July 7th 2020, 3:51:05 pm UTC",6434s,Andrew,andrew8424,but which is better R or python
+"July 7th 2020, 3:52:06 pm UTC",6495s,Shastri,shastri4939,what does edm shell -c cm do?
+"July 7th 2020, 3:52:52 pm UTC",6541s,Richard,richard6439,"can you provide a copy of Erick's history?"
+"July 7th 2020, 3:53:06 pm UTC",6555s,Nupur,nupur6495,could you please tell the command to see history on Mac terminal?
+"July 7th 2020, 3:53:10 pm UTC",6559s,Ray,ray9663,You can actually redirect your history command to an output file if you want to save it for some reason...
+"July 7th 2020, 3:53:30 pm UTC",6579s,Aifang Zhou,user19c0487f,THX!
+"July 7th 2020, 3:53:57 pm UTC",6606s,Shastri,shastri4939,ipython --pylab inherently loads the numpy functions
+"July 7th 2020, 3:54:10 pm UTC",6619s,Richard,richard6439,git hub locatiom?
+"July 7th 2020, 3:54:21 pm UTC",6630s,Sheldon,sheldon6364,Thank You Eric
+"July 7th 2020, 3:54:23 pm UTC",6632s,SciPy Logistics,scipylogistics,https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020
+"July 7th 2020, 3:54:57 pm UTC",6666s,Luke,luke3321,"If you're interested in R, Kieran Healy's book Date Visualization: A Practical Introduction is great. R is more stats-oriented than Python, although they've converged somewhat.
+
+https://socviz.co/"
+"July 7th 2020, 3:54:58 pm UTC",6667s,Nupur,nupur6495,Could you provide link to slack channel?
+"July 7th 2020, 3:55:15 pm UTC",6684s,Charles,charles2328,"I have a meeting at 1:30, but I just wanted to thank-you so much to Alex, Eric and the rest of the team for this tutorial. Great job!"
+"July 7th 2020, 3:55:20 pm UTC",6689s,Wenge,wenge,"alex, could you also share what you want to ype on github?"
+"July 7th 2020, 3:55:35 pm UTC",6704s,Sheldon,sheldon6364,Can you post the link to the numpy slack channel
+"July 7th 2020, 3:56:06 pm UTC",6735s,Matt Davis,jiffyclub,"If you're already in the Slack this is the link to the channel: https://scipy2020.slack.com/archives/C0159RVE10V"
+"July 7th 2020, 3:56:51 pm UTC",6780s,Tijana,tijana5736,shift+enter
+"July 7th 2020, 3:57:44 pm UTC",6833s,Perry Shafran,user9b496260,The dc_metro.JPG must only be available to the Jupyter notebook I think.
+"July 7th 2020, 3:58:09 pm UTC",6858s,Tijana,tijana5736,"When running the solution I get an error ValueError: Only know how to handle PNG; with Pillow installed, Matplotlib can handle more images"
+"July 7th 2020, 3:58:13 pm UTC",6862s,Shastri,shastri4939,No @Perry
+"July 7th 2020, 3:58:24 pm UTC",6873s,Nupur,nupur6495,could someone post link to this jupyter nb again?
+"July 7th 2020, 3:58:44 pm UTC",6893s,Alejandro,alejandro1433,http://localhost:8888/notebooks/exercises/plotting/plotting.ipynb
+"July 7th 2020, 3:58:51 pm UTC",6900s,Jack Collins,user82fe6f2c,need Pillow to use JPG
+"July 7th 2020, 3:59:14 pm UTC",6923s,Shastri,shastri4939,@Perry Change the directory to exececises/plotting/dc_metro.jpg
+"July 7th 2020, 3:59:14 pm UTC",6923s,Matt Davis,jiffyclub,Eric is currently looking at https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020/blob/master/exercises/plotting/plotting_solution.ipynb
+"July 7th 2020, 3:59:38 pm UTC",6947s,SciPy Logistics,scipylogistics,"@Tijana: it means `pillow` is not installed. The easiest thing to do right now is to change the file format, to jpg, so `plt.savefig('my_plots.jpg')`"
+"July 7th 2020, 3:59:40 pm UTC",6949s,Perry Shafran,user9b496260,"Oh...i couldn't get that part"
+"July 7th 2020, 3:59:46 pm UTC",6955s,Douglas,douglas4218,is it easy to save the figure as a vector file type?
+"July 7th 2020, 4:00:48 pm UTC",7017s,Matt Davis,jiffyclub,"@Douglas: some vector file types work fairly easily, I've done svg and pdf. But you need the right backend available, which isn't always the case. (But in my experience usually is.)"
+"July 7th 2020, 4:00:58 pm UTC",7027s,Kelsey,kelsey8461,"what is the purpose of the plt.close('all')?"
+"July 7th 2020, 4:00:58 pm UTC",7027s,Douglas,douglas4218,thanks
+"July 7th 2020, 4:01:04 pm UTC",7033s,Anton,anton1404,is there an undo command in jupyter notebooks? I accidentally deleted the whole cell.
+"July 7th 2020, 4:01:32 pm UTC",7061s,Eric,eric6841,Anton - look under Edit for Undo Delete Cells
+"July 7th 2020, 4:02:06 pm UTC",7095s,Charlotte,charlotte4957,type z in command mode
+"July 7th 2020, 4:02:10 pm UTC",7099s,Shastri,shastri4939,Is the extent argument available only for imshow?
+"July 7th 2020, 4:02:16 pm UTC",7105s,Anton,anton1404,it is grayed out
+"July 7th 2020, 4:02:19 pm UTC",7108s,Karen West,usere0996027,Can you talk about extents?
+"July 7th 2020, 4:02:19 pm UTC",7108s,Sheldon,sheldon6364,why again did you plot a tight axis
+"July 7th 2020, 4:03:27 pm UTC",7176s,ANDREW,andrew9334,how to control axis tick marks and gridline spacing?
+"July 7th 2020, 4:04:00 pm UTC",7209s,Tijana,tijana5736,"Thanks @scipylogistics,  the issue is with plt.imread('dc_metro.JPG')"
+"July 7th 2020, 4:06:14 pm UTC",7343s,SciPy Logistics,scipylogistics,"@Andrew, for tick marks, check the plt.xticks, and plt.xticklabels functions. https://matplotlib.org/3.2.1/gallery/ticks_and_spines/ticklabels_rotation.html#sphx-glr-gallery-ticks-and-spines-ticklabels-rotation-py"
+"July 7th 2020, 4:07:01 pm UTC",7390s,SciPy Logistics,scipylogistics,"@Karen, I assume you mean plt.xlim() and plt.ylim()? They'll set the horizontal and vertical limits of your plot."
+"July 7th 2020, 4:07:39 pm UTC",7428s,Karen West,usere0996027,thank you
+"July 7th 2020, 4:07:40 pm UTC",7429s,Rashika Gupta,rashika,""" File ""<ipython-input-4-47ecda4b6ced>"", line 2
+    1=[0, 1, 2, 3]
+                  ^
+SyntaxError: can't assign to literal"""
+"July 7th 2020, 4:07:45 pm UTC",7434s,Sheldon,sheldon6364,can you turn a list into an array?
+"July 7th 2020, 4:07:52 pm UTC",7441s,Shastri,shastri4939,yes
+"July 7th 2020, 4:08:10 pm UTC",7459s,Matt,matt3759,Yep...same thing. Jyupiter does not like this
+"July 7th 2020, 4:08:10 pm UTC",7459s,SciPy Logistics,scipylogistics,"my_list = [1, 2, 3, 1,]"
+"July 7th 2020, 4:08:10 pm UTC",7459s,Raluca,raluca2196,np.array(list)
+"July 7th 2020, 4:08:12 pm UTC",7461s,Naomi,naomi4192,"@rashika, its L not 1"
+"July 7th 2020, 4:08:15 pm UTC",7464s,Matt Davis,jiffyclub,"@Rashika those are lowercase L's, e.g. l1"
+"July 7th 2020, 4:08:18 pm UTC",7467s,SciPy Logistics,scipylogistics,a = np.array(my_list)
+"July 7th 2020, 4:08:32 pm UTC",7481s,Rashika Gupta,rashika,oh thanks!
+"July 7th 2020, 4:12:14 pm UTC",7703s,Sheldon,sheldon6364,Is it possible to turn a list into a 2-D array?
+"July 7th 2020, 4:12:26 pm UTC",7715s,Shastri,shastri4939,using reshape
+"July 7th 2020, 4:12:26 pm UTC",7715s,SciPy Logistics,scipylogistics,"@Sheldon: He'll get there. :slightly_smiling_face:"
+"July 7th 2020, 4:14:54 pm UTC",7863s,Perry Shafran,user9b496260,"Uh oh - someone's connection is bad."
+"July 7th 2020, 4:15:00 pm UTC",7869s,Ratko,ratko6904,He got into infinite loop
+"July 7th 2020, 4:15:02 pm UTC",7871s,Emerson Nicole,emersonnicole,Eric just froze
+"July 7th 2020, 4:15:05 pm UTC",7874s,Isnar,isnar,lol
+"July 7th 2020, 4:15:06 pm UTC",7875s,Yuvkaran Gahley,user46f7b25f,"It's frozen"
+"July 7th 2020, 4:15:09 pm UTC",7878s,Alyssa,alyssa3689,just hit play again
+"July 7th 2020, 4:15:11 pm UTC",7880s,Lydia,lydia8615,not frozen for me
+"July 7th 2020, 4:15:13 pm UTC",7882s,Matt,matt3759,Switch to 360 p
+"July 7th 2020, 4:15:15 pm UTC",7884s,Tijana,tijana5736,refresh the page
+"July 7th 2020, 4:15:16 pm UTC",7885s,Amanda Reeder,user4b8d1805,refresh
+"July 7th 2020, 4:15:18 pm UTC",7887s,Sheldon,sheldon6364,is there a reason why my item size is 8 and not 4?
+"July 7th 2020, 4:15:20 pm UTC",7889s,Richard,richard6439,change your res to 360
+"July 7th 2020, 4:15:21 pm UTC",7890s,Vincent,vincent8886,switch to 360p
+"July 7th 2020, 4:15:28 pm UTC",7897s,Emerson Nicole,emersonnicole,"he's back but I missed everything after dtype..."
+"July 7th 2020, 4:15:29 pm UTC",7898s,Vincent,vincent8886,a
+"July 7th 2020, 4:15:36 pm UTC",7905s,Luke,luke3321,Sheldon - 64-bit machine?
+"July 7th 2020, 4:15:37 pm UTC",7906s,Adam,adam8310,360p works but then the screen is almost too fuzzy to read the text
+"July 7th 2020, 4:16:27 pm UTC",7956s,Kelsey,kelsey8461,"in the bottom left corner of the screen try clicking 'egt audio/video helo' and enable compatibility mode"
+"July 7th 2020, 4:17:55 pm UTC",8044s,Dershan,dershan,"why does dtype show up when **, but not simple math?"
+"July 7th 2020, 4:18:05 pm UTC",8054s,Mauricio,mauricio5720,It looks ok
+"July 7th 2020, 4:18:10 pm UTC",8059s,Rashika Gupta,rashika,What is a **b doing ?
+"July 7th 2020, 4:18:20 pm UTC",8069s,Andrew,andrew8424,**b is the exponent
+"July 7th 2020, 4:18:28 pm UTC",8077s,Emerson Nicole,emersonnicole,"In my juypter cell, a.itemsize returns 8 and not 4 (as in the slides)"
+"July 7th 2020, 4:18:30 pm UTC",8079s,Mauricio,mauricio5720,"a ^ b, bitwise"
+"July 7th 2020, 4:18:31 pm UTC",8080s,Rashika Gupta,rashika,thanks !
+"July 7th 2020, 4:18:32 pm UTC",8081s,Matt Davis,jiffyclub,** is the exponentiation operator in Python. So 2 ** 3 = 8.
+"July 7th 2020, 4:18:49 pm UTC",8098s,Anton,anton1404,Interegers are 4 bytes - is there a data type to use fewer bytes for true/false indicators? It would be nice for one hot encoding where a lot of indicators are created
+"July 7th 2020, 4:19:12 pm UTC",8121s,Matt Davis,jiffyclub,"@Emerson that's fine, your computer only has a different default integer size."
+"July 7th 2020, 4:19:33 pm UTC",8142s,Yali,yali9737,a.nbytes is not number of bytes?
+"July 7th 2020, 4:20:03 pm UTC",8172s,Anton,anton1404,is there something smaller than 4 bytes to store indicator variables?
+"July 7th 2020, 4:21:06 pm UTC",8235s,Dan,dan3710,"That doesn't happen with my system. It does show the style when not the default, but not otherwise"
+"July 7th 2020, 4:21:19 pm UTC",8248s,Dan,dan3710,"dtype not ""style"""
+"July 7th 2020, 4:22:01 pm UTC",8290s,Anton,anton1404,Thank you
+"July 7th 2020, 4:22:05 pm UTC",8294s,Rashika Gupta,rashika,could you please give an example why should we be concerned about dtype or size or where will this b useful ?
+"July 7th 2020, 4:22:12 pm UTC",8301s,SciPy Logistics,scipylogistics,More on dtypes: https://numpy.org/doc/stable/reference/arrays.dtypes.html
+"July 7th 2020, 4:23:12 pm UTC",8361s,SciPy Logistics,scipylogistics,"@Rashika: you mostly don't need to care. Some exception: you have large data, in which case using 32bit dtype will take half the size of a 64bit integer."
+"July 7th 2020, 4:23:40 pm UTC",8389s,SciPy Logistics,scipylogistics,"You can represent larger numbers with 64 bits integers, or more precise floats with 64 bit floats."
+"July 7th 2020, 4:24:50 pm UTC",8459s,Emerson Nicole,emersonnicole,Is the *= saying do an elementwise operation?
+"July 7th 2020, 4:25:46 pm UTC",8515s,Wenge,wenge,how to do dot product and cross product differently?
+"July 7th 2020, 4:25:47 pm UTC",8516s,Ty,user540fdaf9,"nope its just a shortcut to 'overwrite' a variable"
+"July 7th 2020, 4:26:00 pm UTC",8529s,SciPy Logistics,scipylogistics,"@Emerson: Numpy is *always* elementwise.  The  `a *= 2` is equivalent to `a = a * 2`, it's a ""shortcut""."
+"July 7th 2020, 4:26:05 pm UTC",8534s,Ty,user540fdaf9,short for x = x * c
+"July 7th 2020, 4:26:08 pm UTC",8537s,Dan,dan3710,missed what x was set to?
+"July 7th 2020, 4:26:16 pm UTC",8545s,Brad Mouring,user07190a6e,a
+"July 7th 2020, 4:26:24 pm UTC",8553s,Charlotte,charlotte4957,x = np.arange(11.)
+"July 7th 2020, 4:27:21 pm UTC",8610s,Charlotte,charlotte4957,then x *=c
+"July 7th 2020, 4:27:46 pm UTC",8635s,Mauricio,mauricio5720,"What's c?"
+"July 7th 2020, 4:27:57 pm UTC",8646s,Charlotte,charlotte4957,c = (2*np.pi)/10
+"July 7th 2020, 4:28:04 pm UTC",8653s,Mauricio,mauricio5720,Thanks!
+"July 7th 2020, 4:28:09 pm UTC",8658s,Charlotte,charlotte4957,sure np
+"July 7th 2020, 4:28:23 pm UTC",8672s,Steve,steve3164,"@Wenge np.dot(a, b)"
+"July 7th 2020, 4:28:41 pm UTC",8690s,Yali,yali9737,How to define a floating array?
+"July 7th 2020, 4:28:43 pm UTC",8692s,Steve,steve3164,"np.cross(a,b)"
+"July 7th 2020, 4:28:50 pm UTC",8698s,SciPy Logistics,scipylogistics,"@Wenge, since Python 3.5, it's also possible to do a dot product with `a @ b`."
+"July 7th 2020, 4:28:58 pm UTC",8707s,Walter Kolczynski,walter9071,kinda wish it threw an exception instead
+"July 7th 2020, 4:29:04 pm UTC",8713s,Nupur,nupur6495,can we convert from int to float in arrays?
+"July 7th 2020, 4:29:22 pm UTC",8731s,SciPy Logistics,scipylogistics,Eric will cover floats and type conversion later.
+"July 7th 2020, 4:29:25 pm UTC",8734s,Steve,steve3164,"Neat, is there a shortcut for cross products as well?"
+"July 7th 2020, 4:29:54 pm UTC",8763s,SciPy Logistics,scipylogistics,@Steve: Not that I know of.
+"July 7th 2020, 4:31:28 pm UTC",8857s,Nupur,nupur6495,Thank you :slightly_smiling_face:
+"July 7th 2020, 4:34:25 pm UTC",9034s,Daniel,daniel7868,is there a way to display only a column?
+"July 7th 2020, 4:34:30 pm UTC",9039s,Karen West,usere0996027,Is is possible to use strings to define an index of an array
+"July 7th 2020, 4:34:43 pm UTC",9052s,Ty,user540fdaf9,good so far:+1:
+"July 7th 2020, 4:34:44 pm UTC",9053s,SciPy Logistics,scipylogistics,"@Daniel: He's *just* about to show how to. :slightly_smiling_face:"
+"July 7th 2020, 4:35:17 pm UTC",9086s,Jesse,jesse4932,"how to  declare a 2d array with just constant initial values, says all 0.?"
+"July 7th 2020, 4:35:20 pm UTC",9089s,SciPy Logistics,scipylogistics,@Karen: NumPy uses only integers for indexing and slicing. Check out Xarray for labels like in Pandas.
+"July 7th 2020, 4:35:27 pm UTC",9096s,Dipal,dipal8859,"@Daniel a[:,0]"
+"July 7th 2020, 4:35:30 pm UTC",9099s,Karen West,usere0996027,OK
+"July 7th 2020, 4:35:40 pm UTC",9109s,Karen West,usere0996027,I thought so just wanted to ask
+"July 7th 2020, 4:35:56 pm UTC",9125s,SciPy Logistics,scipylogistics,"@Jess: np.full((10, 5), 2)"
+"July 7th 2020, 4:36:14 pm UTC",9143s,Rashika Gupta,rashika,how do the slicing in more than one dimension ?
+"July 7th 2020, 4:36:26 pm UTC",9155s,Rashika Gupta,rashika,^to
+"July 7th 2020, 4:36:26 pm UTC",9155s,Dominik,dominik3992,is that monkey howling in the background?
+"July 7th 2020, 4:36:44 pm UTC",9173s,SciPy Logistics,scipylogistics,"@Jesse: there are special function for ones, np.ones((10, 5)), and np.zeros((10, 5))"
+"July 7th 2020, 4:37:04 pm UTC",9193s,SciPy Logistics,scipylogistics,"@Rashika: he'll get there. :slightly_smiling_face:"
+"July 7th 2020, 4:37:00 pm UTC",9189s,Jesse,jesse4932,Thx!
+"July 7th 2020, 4:37:08 pm UTC",9197s,Matt Davis,jiffyclub,@Jesse See the listing of those here: https://numpy.org/doc/stable/reference/routines.array-creation.html
+"July 7th 2020, 4:38:18 pm UTC",9267s,Shastri,shastri4939,The colors are difficult to see within the braces
+"July 7th 2020, 4:42:56 pm UTC",9545s,SciPy Logistics,scipylogistics,Slides: https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020/blob/master/slides.pdf
+"July 7th 2020, 4:44:02 pm UTC",9611s,Emerson Nicole,emersonnicole,"This a[0, 3:5] gives me an error IndexError: too many indices for array"
+"July 7th 2020, 4:44:13 pm UTC",9622s,Pavankumar,pavankumar2746,can you please zoom in?
+"July 7th 2020, 4:44:22 pm UTC",9631s,Chris,chris2852,yo have to remake the 2d array
+"July 7th 2020, 4:44:40 pm UTC",9649s,Ray,ray9663,Same here ... get IndexError: too many indices for array
+"July 7th 2020, 4:44:55 pm UTC",9664s,Emerson Nicole,emersonnicole,"Oh the new array isn't specified in the slides then?"
+"July 7th 2020, 4:44:59 pm UTC",9668s,Matt Davis,jiffyclub,"That's a sign that you've got a 1D array."
+"July 7th 2020, 4:45:37 pm UTC",9706s,Dipal,dipal8859,you will have to make a new array such that it has 5 rows and 5 columns
+"July 7th 2020, 4:45:51 pm UTC",9720s,Dipal,dipal8859,*2D array
+"July 7th 2020, 4:45:57 pm UTC",9726s,Chris,chris2852,"a = np.array([[0,2,3,4,5],[10,12,13,24,5]])"
+"July 7th 2020, 4:46:44 pm UTC",9773s,Ray,ray9663,Thanks Chris - that fixed it.
+"July 7th 2020, 4:46:53 pm UTC",9782s,Emerson Nicole,emersonnicole,Thanks @Chris
+"July 7th 2020, 4:47:03 pm UTC",9792s,Vincent,vincent8886,up to not including
+"July 7th 2020, 4:47:26 pm UTC",9815s,Perry Shafran,user9b496260,"It's non inclusive at the end, but inclusive at the beginning"
+"July 7th 2020, 4:48:30 pm UTC",9879s,SciPy Logistics,scipylogistics,"Create the array on page 24 with `a = np.arange(6) + np.arange(10, 60, 10).reshape(-6, 1)`"
+"July 7th 2020, 4:48:30 pm UTC",9879s,Nupur,nupur6495,why is the upper bound not included?
+"July 7th 2020, 4:49:03 pm UTC",9912s,Perry Shafran,user9b496260,Seems to be python convention (and numpy convention too)
+"July 7th 2020, 4:49:04 pm UTC",9913s,Luke,luke3321,"He's saying it's better for some mathematical purposes, but I'm not convinced :slightly_smiling_face:"
+"July 7th 2020, 4:49:22 pm UTC",9931s,Chris,chris2852,it certainly takes getting used to
+"July 7th 2020, 4:49:35 pm UTC",9944s,Nupur,nupur6495,"yeah, want to know the mathematical purpose :slightly_smiling_face:"
+"July 7th 2020, 4:49:45 pm UTC",9954s,SciPy Logistics,scipylogistics,"@Luke, from the creator of Python himself: http://python-history.blogspot.com/2013/10/why-python-uses-0-based-indexing.html"
+"July 7th 2020, 4:50:13 pm UTC",9982s,SciPy Logistics,scipylogistics,And Dijkstra on why indexing should start at 0: https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html
+"July 7th 2020, 4:50:44 pm UTC",10013s,Luke,luke3321,"Thanks, Matt!"
+"July 7th 2020, 4:51:07 pm UTC",10036s,SciPy Logistics,scipylogistics,"(It's Alex behind SciPyLogistics, but it's ok. ;)"
+"July 7th 2020, 4:51:38 pm UTC",10067s,Emerson Nicole,emersonnicole,"how to insert a whole new row at a specified location, thus enlarging the array?"
+"July 7th 2020, 4:51:43 pm UTC",10072s,Luke,luke3321,"Oh, sorry, Alex!"
+"July 7th 2020, 4:51:47 pm UTC",10076s,Douglas,douglas4218,"what are the benefits of starting slices 'from the end' using the negative integers vs starting from 0?"
+"July 7th 2020, 4:51:56 pm UTC",10085s,Luke,luke3321,"Thanks, Alex :slightly_smiling_face:"
+"July 7th 2020, 4:52:04 pm UTC",10093s,SciPy Logistics,scipylogistics,:smile:
+"July 7th 2020, 4:53:40 pm UTC",10189s,Mauricio,mauricio5720,restart the shell
+"July 7th 2020, 4:59:58 pm UTC",10566s,Nupur,nupur6495,i dint understand why 2 : for extracting red col?
+"July 7th 2020, 5:00:18 pm UTC",10587s,Dipal,dipal8859,"Can we also use the following for red? red = a[:, [1,3]]"
+"July 7th 2020, 5:00:21 pm UTC",10590s,Jesse,jesse4932,@Matt  Thanks!
+"July 7th 2020, 5:00:36 pm UTC",10605s,Matt Davis,jiffyclub,@Emerson probably this insert function: https://numpy.org/doc/stable/reference/generated/numpy.insert.html#numpy.insert
+"July 7th 2020, 5:00:51 pm UTC",10620s,Nupur,nupur6495,could you please repeat fo r red and blue?
+"July 7th 2020, 5:03:17 pm UTC",10766s,Nupur,nupur6495,Thank you so much :slightly_smiling_face:
+"July 7th 2020, 5:03:52 pm UTC",10801s,Chris,chris2852,sort and give me the last 10 elements
+"July 7th 2020, 5:03:55 pm UTC",10804s,Matt,matt3759,"One reason is if you don't know how big the array is, but you want data at the end"
+"July 7th 2020, 5:04:52 pm UTC",10860s,Dan,dan3710,"If you didn't know the size of your array, but knew that the last row was the one you wanted, then you would grab the last, and would not need to find the shape first"
+"July 7th 2020, 5:05:06 pm UTC",10875s,Douglas,douglas4218,thanks everyone
+"July 7th 2020, 5:08:06 pm UTC",11055s,Lydia,lydia8615,"is this behaviour (slices being linked) true just for numpy, or python in general?"
+"July 7th 2020, 5:08:06 pm UTC",11055s,Sarah,sarah7962,This is still mind blowing to me
+"July 7th 2020, 5:09:29 pm UTC",11138s,Emerson Nicole,emersonnicole,Is there a shorthand for this? Like ==?
+"July 7th 2020, 5:09:58 pm UTC",11167s,Matt Davis,jiffyclub,"@Lydia It's typical for Python in general."
+"July 7th 2020, 5:10:04 pm UTC",11173s,Lydia,lydia8615,thanks
+"July 7th 2020, 5:13:37 pm UTC",11386s,Karen West,usere0996027,can you create indices for multidimensional arrays
+"July 7th 2020, 5:14:27 pm UTC",11436s,Anton,anton1404,can you do named arrays like in R so you can refer to array not just by indices but also by these names?
+"July 7th 2020, 5:14:45 pm UTC",11454s,SciPy Logistics,scipylogistics,"@Karen, it's coming up."
+"July 7th 2020, 5:15:39 pm UTC",11508s,SciPy Logistics,scipylogistics,"@Anton, if you want names indexing with NumPy-like data structure, check out xarray. Or, if you want dataframes, check out Pandas. NumPy only uses integers."
+"July 7th 2020, 5:16:33 pm UTC",11562s,Anton,anton1404,Ok thanks
+"July 7th 2020, 5:16:54 pm UTC",11583s,Dan,dan3710,"Can you change an integer array into a boolean? So calculate 0's and 1's and then change data types?"
+"July 7th 2020, 5:17:11 pm UTC",11600s,Shastri,shastri4939,can you show the masking code again please?
+"July 7th 2020, 5:17:34 pm UTC",11623s,Tinsu,tinsu,how come z=a[mask] do not share the same memory?
+"July 7th 2020, 5:17:46 pm UTC",11635s,SciPy Logistics,scipylogistics,"@Dan use `astype`, e.g. a.astype('bool')"
+"July 7th 2020, 5:17:56 pm UTC",11645s,Dan,dan3710,thanks!
+"July 7th 2020, 5:18:07 pm UTC",11656s,SciPy Logistics,scipylogistics,"@Tinsu, he'll talk about that in a minute."
+"July 7th 2020, 5:18:43 pm UTC",11692s,SciPy Logistics,scipylogistics,"When doing ""fancy indexing"", the resulting array uses *new* memory. The memory sharing happens *only* with slicing."
+"July 7th 2020, 5:18:52 pm UTC",11701s,Ty,user540fdaf9,"what is the code to create the 5x5 array he's using as the example?"
+"July 7th 2020, 5:19:05 pm UTC",11714s,Ty,user540fdaf9,i missed it
+"July 7th 2020, 5:19:14 pm UTC",11723s,SciPy Logistics,scipylogistics,"np.arange(6) + np.arange(10, 60, 10).reshape(-6, 1)"
+"July 7th 2020, 5:19:15 pm UTC",11724s,Shastri,shastri4939,"np.arange(25).reshape(5,5)"
+"July 7th 2020, 5:19:15 pm UTC",11724s,Chris,chris2852,"np.arange(25).reshape(5,5)"
+"July 7th 2020, 5:19:33 pm UTC",11742s,Shastri,shastri4939,"@Chris, I was first"
+"July 7th 2020, 5:19:39 pm UTC",11748s,Chris,chris2852,:slightly_smiling_face:
+"July 7th 2020, 5:19:46 pm UTC",11755s,Ty,user540fdaf9,thank you @scipy
+"July 7th 2020, 5:21:07 pm UTC",11836s,Emerson Nicole,emersonnicole,"np.arange(6) + np.arange(10, 60, 10).reshape(-6, 1) -- this is missing the 0:5 top row"
+"July 7th 2020, 5:21:09 pm UTC",11838s,Shastri,shastri4939,"The mask array need not be of the same size as the array, right?"
+"July 7th 2020, 5:21:12 pm UTC",11841s,Emerson Nicole,emersonnicole,How can we insert that?
+"July 7th 2020, 5:21:52 pm UTC",11881s,Ty,user540fdaf9,"second emerson's question ^"
+"July 7th 2020, 5:21:53 pm UTC",11882s,SciPy Logistics,scipylogistics,"Sorry, this will doit: np.arange(6) + np.arange(0, 60, 10).reshape(-6, 1)"
+"July 7th 2020, 5:22:15 pm UTC",11904s,Ty,user540fdaf9,perfect
+"July 7th 2020, 5:22:35 pm UTC",11924s,Shastri,shastri4939,how do we use not divisible by 3
+"July 7th 2020, 5:23:57 pm UTC",12006s,Dan,dan3710,"Can you reshape without specifying all the dimensions? Such as reshape to have 5 equal sized rows, without knowing how many there are"
+"July 7th 2020, 5:24:01 pm UTC",12010s,Shastri,shastri4939,We need that to create the mask right?
+"July 7th 2020, 5:24:11 pm UTC",12020s,Nupur,nupur6495,please let us try once
+"July 7th 2020, 5:24:12 pm UTC",12021s,Mauricio,mauricio5720,your number % 3 == 0
+"July 7th 2020, 5:24:40 pm UTC",12049s,Mauricio,mauricio5720,Not final answer :slightly_smiling_face:
+"July 7th 2020, 5:24:49 pm UTC",12058s,Emerson Nicole,emersonnicole,thanks all
+"July 7th 2020, 5:25:56 pm UTC",12125s,SciPy Logistics,scipylogistics,"@Dan: use None, or -1 to mean ""as many as necessary"", e.g. `np.arange(10).reshape(5, -1)`"
+"July 7th 2020, 5:26:48 pm UTC",12177s,Dan,dan3710,thx
+"July 7th 2020, 5:28:34 pm UTC",12283s,Nupur,nupur6495,is mask an in-built func of numpy?
+"July 7th 2020, 5:28:46 pm UTC",12295s,SciPy Logistics,scipylogistics,mask is a variable name.
+"July 7th 2020, 5:29:05 pm UTC",12314s,Nupur,nupur6495,"got it, thanks!"
+"July 7th 2020, 5:30:23 pm UTC",12392s,Dipal,dipal8859,Can you explain the purpose of using zip again please?
+"July 7th 2020, 5:30:53 pm UTC",12422s,Shastri,shastri4939,I used : a[a % 3 == 0]
+"July 7th 2020, 5:31:52 pm UTC",12481s,Nupur,nupur6495,"when we do a[mask}, would it only return values that are true?"
+"July 7th 2020, 5:31:59 pm UTC",12488s,Richard,richard6439,scroll up a little
+"July 7th 2020, 5:32:26 pm UTC",12515s,SciPy Logistics,scipylogistics,"Yes, only the values where the mask is True."
+"July 7th 2020, 5:33:04 pm UTC",12553s,Karen West,usere0996027,"In your slide for fancy indexing you start with >>> a[[0, 1, 2, 3, 4],
+... [1, 2, 3, 4, 5]]
+array([ 1, 12, 23, 34, 45])"
+"July 7th 2020, 5:33:27 pm UTC",12576s,Karen West,usere0996027,can you reiterate what a was before this command?
+"July 7th 2020, 5:33:50 pm UTC",12599s,Dipal,dipal8859,Got it! Thank you!
+"July 7th 2020, 5:34:04 pm UTC",12613s,Nupur,nupur6495,Thanks :slightly_smiling_face:
+"July 7th 2020, 5:34:19 pm UTC",12628s,SciPy Logistics,scipylogistics,"np.arange(6) + np.arange(0, 60, 10).reshape(-6, 1)"
+"July 7th 2020, 5:34:34 pm UTC",12642s,SciPy Logistics,scipylogistics,Broadcasting.
+"July 7th 2020, 5:34:56 pm UTC",12665s,Lydia,lydia8615,"@Karen - or a=np.arange(25).reshape(5,5) depending on which a you are after"
+"July 7th 2020, 5:35:07 pm UTC",12676s,Nupur,nupur6495,"when I did mask=a%3==0, I didnt specify dtype=bool but got bool values only. Is that something which happens by default?"
+"July 7th 2020, 5:35:35 pm UTC",12704s,Shastri,shastri4939,Yes: fancy indexing
+"July 7th 2020, 5:35:38 pm UTC",12707s,Karen West,usere0996027,thank you
+"July 7th 2020, 5:36:34 pm UTC",12763s,Cameron,cameron4626,== specifies conditionals therefore getting bools
+"July 7th 2020, 5:36:52 pm UTC",12781s,Nupur,nupur6495,"Thank you so much! It's really helpful :slightly_smiling_face:"
+"July 7th 2020, 5:37:34 pm UTC",12823s,Rebecca,rebecca9601,thanks for the a array creation
+"July 7th 2020, 5:39:36 pm UTC",12945s,Nupur,nupur6495,could you please repeat axis numbering?
+"July 7th 2020, 5:39:36 pm UTC",12945s,Matt,matt3759,"So is (1,4) the same as (4, ) ?"
+"July 7th 2020, 5:41:08 pm UTC",13037s,Shastri,shastri4939,"(4,) is 1D
+(1,4) is 2D"
+"July 7th 2020, 5:42:44 pm UTC",13133s,Matt,matt3759,Thanks
+"July 7th 2020, 5:45:40 pm UTC",13309s,Nupur,nupur6495,so do arrays follows same rules those of matrices?
+"July 7th 2020, 5:45:55 pm UTC",13324s,"Kar'retta Venable",usercb86a286,yes
+"July 7th 2020, 5:46:02 pm UTC",13331s,Shastri,shastri4939,axis = 0 is colum or row wise?
+"July 7th 2020, 5:46:07 pm UTC",13336s,"Kar'retta Venable",usercb86a286,but not the same indexing
+"July 7th 2020, 5:46:15 pm UTC",13344s,Damon,damon7324,"So (,4) is not the same as (4,)?"
+"July 7th 2020, 5:46:25 pm UTC",13354s,Eric,eric6841,numpy has lots of functions to operate on Arrays as if they were matrices
+"July 7th 2020, 5:46:31 pm UTC",13360s,Damon,damon7324,"(,4) means nothing?"
+"July 7th 2020, 5:46:36 pm UTC",13365s,"Kar'retta Venable",usercb86a286,"both ex. a[0,0]"
+"July 7th 2020, 5:46:39 pm UTC",13368s,SciPy Logistics,scipylogistics,"axis=0 is ""first dimension"", it depends on the number of dimensions. If it's 2D, axis=0 is teh rows."
+"July 7th 2020, 5:46:50 pm UTC",13379s,Shastri,shastri4939,Ok
+"July 7th 2020, 5:46:58 pm UTC",13387s,SciPy Logistics,scipylogistics,"@Damon: (,4) does not exist."
+"July 7th 2020, 5:47:09 pm UTC",13398s,Damon,damon7324,"ok, thanks"
+"July 7th 2020, 5:47:30 pm UTC",13419s,Damon,damon7324,"(4,) means 1D, 1 row with 4 elemens?"
+"July 7th 2020, 5:47:53 pm UTC",13442s,Kelsey,kelsey8461,what slide are we on?
+"July 7th 2020, 5:48:00 pm UTC",13449s,SciPy Logistics,scipylogistics,@Damon: yes.
+"July 7th 2020, 5:48:11 pm UTC",13460s,Damon,damon7324,got it
+"July 7th 2020, 5:48:21 pm UTC",13470s,SciPy Logistics,scipylogistics,Slide 39.
+"July 7th 2020, 5:48:21 pm UTC",13470s,Cameron,cameron4626,39 @Kelsey
+"July 7th 2020, 5:48:45 pm UTC",13494s,Kelsey,kelsey8461,"@Cameron got it, thanks!"
+"July 7th 2020, 5:48:53 pm UTC",13502s,Sheldon,sheldon6364,when I typed a.sum I did not get 21
+"July 7th 2020, 5:49:04 pm UTC",13513s,Cameron,cameron4626,a.sum()
+"July 7th 2020, 5:49:29 pm UTC",13538s,Sheldon,sheldon6364,Thank You
+"July 7th 2020, 5:50:11 pm UTC",13580s,Shastri,shastri4939,axis=-2 is same as axis = 0
+"July 7th 2020, 5:50:14 pm UTC",13583s,Shastri,shastri4939,?
+"July 7th 2020, 5:50:24 pm UTC",13593s,SciPy Logistics,scipylogistics,"Yes, in this case."
+"July 7th 2020, 5:50:31 pm UTC",13600s,Shastri,shastri4939,Thank you
+"July 7th 2020, 5:51:02 pm UTC",13631s,Shastri,shastri4939,VERY VERY USEFUL
+"July 7th 2020, 5:51:06 pm UTC",13635s,Shastri,shastri4939,THANK YOU
+"July 7th 2020, 5:51:57 pm UTC",13686s,Nupur,nupur6495,what is argmin?
+"July 7th 2020, 5:52:28 pm UTC",13717s,SciPy Logistics,scipylogistics,Argmin gives you the position of the minimum in teh array.
+"July 7th 2020, 5:53:23 pm UTC",13772s,Nupur,nupur6495,Thanks!
+"July 7th 2020, 5:53:41 pm UTC",13790s,Rebecca,rebecca9601,unravel_index = nice!
+"July 7th 2020, 5:53:41 pm UTC",13790s,Micah,micah2879,what does unravel_index return in multiple positions match?
+"July 7th 2020, 5:53:51 pm UTC",13800s,James,james9864,can you use a 1d coord on a 2d array?
+"July 7th 2020, 5:54:36 pm UTC",13845s,SciPy Logistics,scipylogistics,"Unravel index doesn't ""find"" anything, it translate from linear index to multi-dimensional positions. If you pass multiple linear indices, it'll return multiple positions."
+"July 7th 2020, 5:55:02 pm UTC",13871s,SciPy Logistics,scipylogistics,"@James: yes, it'll index along the first dimension."
+"July 7th 2020, 5:55:28 pm UTC",13897s,James,james9864,what would a[6] give?
+"July 7th 2020, 5:56:00 pm UTC",13929s,SciPy Logistics,scipylogistics,"Indexing outside of the size of the array raises an IndexError. It doesn't ""grow"" the array like in MATLAB."
+"July 7th 2020, 5:57:10 pm UTC",13999s,Miliaritiana,miliaritiana,"Suppose I have 2 large numpy arrays a and b, if I want to compute the sum of a and b. Which is faster a + b or using numpy function np.add(a,b)?"
+"July 7th 2020, 5:57:23 pm UTC",14012s,James,james9864,Feature request: translate 1d indices to multi-dim tuple.  Kind of inverse of unravel_index
+"July 7th 2020, 5:57:42 pm UTC",14031s,SciPy Logistics,scipylogistics,The best place to learn about NumPy functions is to read the documentaiton: https://numpy.org
+"July 7th 2020, 5:57:58 pm UTC",14047s,Lydia,lydia8615,I really liked this tutorial - thank you very much to everyone involved!
+"July 7th 2020, 5:58:17 pm UTC",14066s,Eric Olsen,user4cb7cd1a,https://umdsurvey.umd.edu/jfe/form/SV_8bJrXjbhXf7saAl
+"July 7th 2020, 5:58:33 pm UTC",14081s,Nupur,nupur6495,"Thank you so much, Eric! It was a very informative session :slightly_smiling_face:"
+"July 7th 2020, 5:58:42 pm UTC",14091s,Matha Goram,baqwas,Thank you for an excellent session! :clap:
+"July 7th 2020, 5:58:56 pm UTC",14105s,Karen West,usere0996027,Very thorough thanks!
+"July 7th 2020, 5:59:00 pm UTC",14109s,Eric,eric6841,Thank you Eric and thanks to all the session helpers!
+"July 7th 2020, 5:59:05 pm UTC",14114s,Yan,yan8590,"Thank you, Eric!"
+"July 7th 2020, 5:59:05 pm UTC",14114s,ANDREW,andrew9334,excellent tutorial - thanks!!
+"July 7th 2020, 5:59:09 pm UTC",14118s,Kindra,kindra3700,Thank you! I learned so much!
+"July 7th 2020, 5:59:12 pm UTC",14121s,Blaise,blaise8904,Thank you Eric!
+"July 7th 2020, 5:59:15 pm UTC",14124s,Maryam,maryam4220,Thank you!!
+"July 7th 2020, 5:59:17 pm UTC",14126s,Val,usera1c2a273,Thank you!
+"July 7th 2020, 5:59:21 pm UTC",14130s,Mauricio,mauricio5720,:clap:
+"July 7th 2020, 5:59:23 pm UTC",14132s,Damon,damon7324,"Thank you, good training for Python."
+"July 7th 2020, 5:59:24 pm UTC",14133s,Ashok Timsina,userb8e5b439,Thank you
+"July 7th 2020, 5:59:31 pm UTC",14140s,Samuel,samuel9454,Thanks everyone!
+"July 7th 2020, 5:59:33 pm UTC",14142s,Ryan Wang,ryan21116456,Thank you so much!!!
+"July 7th 2020, 5:59:33 pm UTC",14142s,Tinsu,tinsu,Thank you!
+"July 7th 2020, 5:59:35 pm UTC",14144s,Sheldon,sheldon6364,Thank You Eric and Alex
+"July 7th 2020, 5:59:36 pm UTC",14145s,Jing,jing5414,Thank you
+"July 7th 2020, 5:59:39 pm UTC",14148s,Alexandre,alexandre5152,Thank you!
+"July 7th 2020, 5:59:39 pm UTC",14148s,Matt,matt5695,thanks all
+"July 7th 2020, 5:59:45 pm UTC",14154s,Adam,adam8310,Thank you!
+"July 7th 2020, 5:59:45 pm UTC",14154s,Shastri,shastri4939,What wis the Github link?
+"July 7th 2020, 5:59:45 pm UTC",14154s,Val,usera1c2a273,"Good job, Eric and Alex!"
+"July 7th 2020, 5:59:49 pm UTC",14158s,Damon,damon7324,:clap:
+"July 7th 2020, 5:59:52 pm UTC",14161s,Perry Shafran,user9b496260,Thank you!  This was useful!
+"July 7th 2020, 5:59:53 pm UTC",14162s,Luke,luke3321,Thanks!
+"July 7th 2020, 5:59:55 pm UTC",14164s,Yali,yali9737,"Thank you Eric, Alex and Matt"
+"July 7th 2020, 5:59:55 pm UTC",14164s,James,james9864,Thanks!
+"July 7th 2020, 5:59:57 pm UTC",14166s,Ray,ray9663,"Thank you, Eric and Alex and Matt!"
+"July 7th 2020, 5:59:57 pm UTC",14166s,Alyson,alyson8156,Thank you!
+"July 7th 2020, 5:59:58 pm UTC",14167s,Bob,bob4868,"Great course, thanks!"
+"July 7th 2020, 5:59:59 pm UTC",14168s,Ezequiel,ezequiel2751,Thanks
+"July 7th 2020, 6:00:01 pm UTC",14170s,Ty,user540fdaf9,thanks!
+"July 7th 2020, 6:00:03 pm UTC",14172s,Damion Demeter,iamdamion,what is the slack channel? I missed it yesterday
+"July 7th 2020, 6:00:04 pm UTC",14173s,Anton,anton1404,Thank you!
