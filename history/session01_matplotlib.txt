@@ -1,0 +1,115 @@
+import numpy as np
+from matplotlib import pyplot as plt
+%matplotlib qt
+plt.figure()
+t = np.linspace(0, 2*np.pi, 50)
+t
+t.size
+x = np.sin(t)
+x
+x.size
+y = np.cos(t)
+y
+plt.figure()
+plt.plot(x)
+plt.figure()
+plt.plot(y)
+plt.title("Cosine")
+x = np.linspace(0, 2*np.pi, 50)
+y1 = np.sin(x)
+y2 = np.sin(2*x)
+plt.figure()
+plt.plot(y1)
+plt.plot(x, y1)
+plt.clf()
+plt.plot(x, y1)
+plt.plot(x, y1, 'r-o')
+plt.clf()
+plt.plot(x, y1, 'ro')
+plt.clf()
+plt.plot(x, y1, 'r+')
+plt.clf()
+plt.plot(x, y1, 'g-o', x, y2, 'b-+')
+plt.legend(['sin(x)', 'sin(2x)'])
+N = 50
+x = np.linspace(0, 10, N)
+x
+from numpy.random import rand
+e = rand(N)*5.0
+e
+y1 = x + e
+plt.scatter(x, y1)
+areas = rand(N) * 100
+plt.scatter(x, y1, s=areas)
+colors = rand(N)
+plt.scatter(x, y1, s=areas, c=colors)
+plt.colorbar()
+plt.title("Random Scatter")
+plt.scatter?
+plt.scatter(x, y1, s=areas, c='r')
+plt.scatter(x, y1, s=areas, c=colors)
+colors
+plt.scatter(x, y1, s=100, c=colors)
+plt.scatter(x, y1, s=100, c=colors)
+areas
+plt.scatter(x, y1, s=areas, c=colors)
+plt.scatter?
+e1 = rand(100)
+e2 = rand(100) * 2
+e3 = rand(100) *10
+e4 = rand(100) *100
+e1
+corrmatrix = np.corrcoef([e1, e2, e3, e4])
+corrmatrix
+plt.imshow(corrmatrix, cmap='GnBu')
+plt.colorbar()
+plt.savefig('plot.jpg')
+%pwd
+t = np.linspace(0, 2*np.pi, 50)
+plt.imshow(corrmatrix, cmap=plt.cm.Greys)
+t = np.linspace(0, 2*np.pi, 50)
+x = np.sin(t)
+y = np.cos(t)
+plt.subplot(2, 1, 1)
+plt.plot(x)
+plt.subplot(2, 1, 2)
+plt.plot(y)
+plt.subplot?
+plt.figure?
+plt.subplot(2, 1, 2, figsize=(10,10))
+plt.figure(figsize=(4,4))
+plt.subplot(1, 2, 1)
+plt.plot(x)
+plt.subplot(1, 2, 2)
+plt.plot(y)
+from numpy.random import randint
+data = randint(10000, size(10, 1000))
+data = randint(10000, size=(10, 1000))
+x = np.sum(data, axis=0)
+x
+%history
+plt.subplot(2, 1, 1)
+plt.hist(x, color='r')
+plt.subplot(2, 1, 2)
+plt.hist(x, cumulative=True)
+plt.hist([x, x])
+plt.hist([x, x, x])
+plt.hist?
+True
+true
+TRUE
+False
+plt.hist?
+plt.hist?
+plt.hist?
+plt.hist(x, color='r', density=True)
+plt.plot(np.sin(t), label='sin')
+plt.plot(np.cos(t), label='cos')
+plt.legend()
+plt.plot(t, np.sin(t))
+plt.xlabel('radians')
+plt.ylabel('amplitude', fontsize='large')
+plt.ylabel('amplitude', fontsize=32)
+plt.title('Sin(x)')
+plt.title('Sin(x)', fontsize=24)
+%history
